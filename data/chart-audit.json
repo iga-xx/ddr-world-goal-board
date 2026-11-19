@@ -1,0 +1,44 @@
+{
+  "retrievedAt": "2026-10-30T10:09:01.997Z",
+  "missingCharts": [],
+  "newSongs": [],
+  "levelConflicts": [],
+  "singleSource": [],
+  "excluded": [
+    {
+      "title": "Happy",
+      "reason": "ユーザー指定"
+    },
+    {
+      "title": "Steps to the Star",
+      "reason": "SPの踊・激・鬼がない"
+    }
+  ],
+  "duplicateTitles": [
+    {
+      "title": "朱と碧のランページ",
+      "artist": "covered by 儒烏風亭らでん(ReGLOSS)",
+      "id": "54f61f90e89dc1b08e58"
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "artist": "covered by 轟はじめ(ReGLOSS)",
+      "id": "e1b5ef941a9db854cd3f"
+    },
+    {
+      "title": "朱と碧のランページ",
+      "artist": "NU-KO",
+      "id": "26bad8f5dc8d82af23d7"
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "artist": "rino & m@sumi from plastic penguin",
+      "id": "a45169a107556c418075"
+    }
+  ],
+  "unmatchedOfficial": [],
+  "supplementTotals": {
+    "songs": 153,
+    "charts": 432
+  }
+}

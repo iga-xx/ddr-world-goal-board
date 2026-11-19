@@ -1,0 +1,25 @@
+{
+  "name": "ddr-world-goal-board",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5173 --strictPort",
+    "build": "tsc -b && vite build",
+    "build:pages": "tsc -b && vite build --mode pages --outDir dist-pages",
+    "board:snapshot": "node scripts/update-published-board.ts",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "import:official": "node scripts/import-official.ts",
+    "start": "vite preview --host 127.0.0.1 --port 5173 --strictPort"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "typescript": "^5.9.3",
+    "vite": "^7.2.0"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-pages/
+*.tsbuildinfo
+data/raw/
+test-results/
+ddr-goals-*.json
+src/published-board.*.tmp

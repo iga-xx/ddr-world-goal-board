@@ -1,0 +1,5167 @@
+{
+  "retrievedAt": "2026-10-30T10:02:55.528Z",
+  "missingCharts": [
+    {
+      "title": "Ambivalent Vermilia",
+      "songId": "b2c82c1252a544b30637",
+      "difficulty": "DIFFICULT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "00qIiO99Q18biD8bQ6d1QOooDP00O1Od",
+      "corroborated": false
+    },
+    {
+      "title": "Ambivalent Vermilia",
+      "songId": "b2c82c1252a544b30637",
+      "difficulty": "EXPERT",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "00qIiO99Q18biD8bQ6d1QOooDP00O1Od",
+      "corroborated": false
+    },
+    {
+      "title": "WILD RUSH",
+      "songId": "0f2510ad6f34dc56c450",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "01808Q1Q6lQQ1lP0qd80I0b0qqDd1OOP",
+      "corroborated": true
+    },
+    {
+      "title": "quaver♪",
+      "songId": "da734f7bf4a164685b3a",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "09P10l1q98b1DiDQdlIii0bld111O86D",
+      "corroborated": true
+    },
+    {
+      "title": "quaver♪",
+      "songId": "da734f7bf4a164685b3a",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "09P10l1q98b1DiDQdlIii0bld111O86D",
+      "corroborated": true
+    },
+    {
+      "title": "Red. by Full Metal Jacket",
+      "songId": "9b679463d031e99fbce4",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "0b8lD690qQO1bDOib1IqiO0OO169o9IQ",
+      "corroborated": true
+    },
+    {
+      "title": "Red. by Full Metal Jacket",
+      "songId": "9b679463d031e99fbce4",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "0b8lD690qQO1bDOib1IqiO0OO169o9IQ",
+      "corroborated": true
+    },
+    {
+      "title": "Red. by Full Metal Jacket",
+      "songId": "9b679463d031e99fbce4",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "0b8lD690qQO1bDOib1IqiO0OO169o9IQ",
+      "corroborated": true
+    },
+    {
+      "title": "Roll the Dice",
+      "songId": "75371438ef7fb050473a",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "0i8idqoQ8lOIi6qOPO0DOOi8OlPq10D8",
+      "corroborated": true
+    },
+    {
+      "title": "Roll the Dice",
+      "songId": "75371438ef7fb050473a",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "0i8idqoQ8lOIi6qOPO0DOOi8OlPq10D8",
+      "corroborated": true
+    },
+    {
+      "title": "Roll the Dice",
+      "songId": "75371438ef7fb050473a",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "0i8idqoQ8lOIi6qOPO0DOOi8OlPq10D8",
+      "corroborated": true
+    },
+    {
+      "title": "SILKY BRAVE",
+      "songId": "b474d693e21200745636",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "0iO086qDbPOd8DlPPqP8q0DDi6O8iP9I",
+      "corroborated": true
+    },
+    {
+      "title": "SILKY BRAVE",
+      "songId": "b474d693e21200745636",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "0iO086qDbPOd8DlPPqP8q0DDi6O8iP9I",
+      "corroborated": true
+    },
+    {
+      "title": "TURNING DOWN",
+      "songId": "4c7edeb9d7046cb27d93",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "0l8dbQDQ6I01Pd1DO80q0Do1o81ldqPQ",
+      "corroborated": true
+    },
+    {
+      "title": "TURNING DOWN",
+      "songId": "4c7edeb9d7046cb27d93",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "0l8dbQDQ6I01Pd1DO80q0Do1o81ldqPQ",
+      "corroborated": true
+    },
+    {
+      "title": "KEEP ON MOVIN'",
+      "songId": "e6ec4c94b879146cdc32",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "0lDDIlQ91lq6O16q9QQ681d6Db1l0oOb",
+      "corroborated": true
+    },
+    {
+      "title": "TYCOON",
+      "songId": "7e2903a67f2e61d4848e",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "0ODl10P0O10D1OQID91QiPlQd988bio8",
+      "corroborated": true
+    },
+    {
+      "title": "TYCOON",
+      "songId": "7e2903a67f2e61d4848e",
+      "difficulty": "EXPERT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "0ODl10P0O10D1OQID91QiPlQd988bio8",
+      "corroborated": true
+    },
+    {
+      "title": "rainbow rainbow",
+      "songId": "3ec9be76490c96456c3d",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "0OQdlbo111ib1i88IdIPIbollD68Dii1",
+      "corroborated": true
+    },
+    {
+      "title": "Bye or not",
+      "songId": "efc3875f96a38b187ea8",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "0P6PI0QP9b91QOlIibodd9IO90PbQO6I",
+      "corroborated": true
+    },
+    {
+      "title": "Bye or not",
+      "songId": "efc3875f96a38b187ea8",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "0P6PI0QP9b91QOlIibodd9IO90PbQO6I",
+      "corroborated": true
+    },
+    {
+      "title": "Bye or not",
+      "songId": "efc3875f96a38b187ea8",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "0P6PI0QP9b91QOlIibodd9IO90PbQO6I",
+      "corroborated": true
+    },
+    {
+      "title": "Chocolate Planet",
+      "songId": "0467675ee2cf1a5aef58",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "0Pd8il0PQd80i1O01i1D9960IdqoQo01",
+      "corroborated": true
+    },
+    {
+      "title": "Chocolate Planet",
+      "songId": "0467675ee2cf1a5aef58",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "0Pd8il0PQd80i1O01i1D9960IdqoQo01",
+      "corroborated": true
+    },
+    {
+      "title": "Chocolate Planet",
+      "songId": "0467675ee2cf1a5aef58",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "0Pd8il0PQd80i1O01i1D9960IdqoQo01",
+      "corroborated": true
+    },
+    {
+      "title": "Funky Flux Fusion",
+      "songId": "0532b34d5299e82b0145",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "0QlIdbiPq11Q0IPoQDI60Dq8Ib66o988",
+      "corroborated": true
+    },
+    {
+      "title": "Funky Flux Fusion",
+      "songId": "0532b34d5299e82b0145",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "0QlIdbiPq11Q0IPoQDI60Dq8Ib66o988",
+      "corroborated": true
+    },
+    {
+      "title": "ZENDEGI DANCE",
+      "songId": "7c37df5deb01c122f089",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "0QOP6QqdlobOo9i8O6dOl8IdQl89P6PP",
+      "corroborated": true
+    },
+    {
+      "title": "ZENDEGI DANCE",
+      "songId": "7c37df5deb01c122f089",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "0QOP6QqdlobOo9i8O6dOl8IdQl89P6PP",
+      "corroborated": true
+    },
+    {
+      "title": "ZENDEGI DANCE",
+      "songId": "7c37df5deb01c122f089",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "0QOP6QqdlobOo9i8O6dOl8IdQl89P6PP",
+      "corroborated": true
+    },
+    {
+      "title": "Can't Stop Running!!",
+      "songId": "6599256104d65d7047ef",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "101l06dOi16IlQI0qDqo6qD9DOP999Dd",
+      "corroborated": true
+    },
+    {
+      "title": "Can't Stop Running!!",
+      "songId": "6599256104d65d7047ef",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "101l06dOi16IlQI0qDqo6qD9DOP999Dd",
+      "corroborated": true
+    },
+    {
+      "title": "黒髪乱れし修羅となりて～凛 edition～",
+      "songId": "dd23ae6afa2d30e7b4c4",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "16oDDIlP8bIODQ6Ql0881d9Qqdb19b98",
+      "corroborated": true
+    },
+    {
+      "title": "Bring Me Back",
+      "songId": "52549c5f85b2819bf219",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "180DD1dl8dq1lOioPqPOo6b6d9QbbbdD",
+      "corroborated": true
+    },
+    {
+      "title": "Bring Me Back",
+      "songId": "52549c5f85b2819bf219",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "180DD1dl8dq1lOioPqPOo6b6d9QbbbdD",
+      "corroborated": true
+    },
+    {
+      "title": "極地大衝撃",
+      "songId": "86afdfbaa60b69c4f8f8",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "1bo1qQDPidPPOlD16Ii9PoQOlQ996qb8",
+      "corroborated": true
+    },
+    {
+      "title": "極地大衝撃",
+      "songId": "86afdfbaa60b69c4f8f8",
+      "difficulty": "EXPERT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "1bo1qQDPidPPOlD16Ii9PoQOlQ996qb8",
+      "corroborated": true
+    },
+    {
+      "title": "Continue to the real world?",
+      "songId": "5b396a66f9625ed95ff1",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "1Dd0b8lIQOd011qqOPiq1QDbDqod9Od8",
+      "corroborated": true
+    },
+    {
+      "title": "Gravity Collapse",
+      "songId": "92021a9101cf990b5cc8",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "1iPqdbQiqoi9l8D6Q106i01DbOO8191b",
+      "corroborated": true
+    },
+    {
+      "title": "Gravity Collapse",
+      "songId": "92021a9101cf990b5cc8",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "1iPqdbQiqoi9l8D6Q106i01DbOO8191b",
+      "corroborated": true
+    },
+    {
+      "title": "Gravity Collapse",
+      "songId": "92021a9101cf990b5cc8",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "1iPqdbQiqoi9l8D6Q106i01DbOO8191b",
+      "corroborated": true
+    },
+    {
+      "title": "電幻圏",
+      "songId": "eab086f616425dc20d46",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "1l0i6b10D8dbD60QIbiqlidQo9d69qII",
+      "corroborated": true
+    },
+    {
+      "title": "電幻圏",
+      "songId": "eab086f616425dc20d46",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "1l0i6b10D8dbD60QIbiqlidQo9d69qII",
+      "corroborated": true
+    },
+    {
+      "title": "Touch My Body",
+      "songId": "050d6ad3410e6059969e",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "1loi6P66IOoPqD9I68odili18P8bPb9P",
+      "corroborated": true
+    },
+    {
+      "title": "Touch My Body",
+      "songId": "050d6ad3410e6059969e",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "1loi6P66IOoPqD9I68odili18P8bPb9P",
+      "corroborated": true
+    },
+    {
+      "title": "Touch My Body",
+      "songId": "050d6ad3410e6059969e",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "1loi6P66IOoPqD9I68odili18P8bPb9P",
+      "corroborated": true
+    },
+    {
+      "title": "Worst Plan",
+      "songId": "f770d2369e2ea025c801",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": false,
+      "sourceId": "1lqii0IibdbPD19P6DiIl0Id9do6qqd1",
+      "corroborated": true
+    },
+    {
+      "title": "Übertreffen",
+      "songId": "eef4a535c49682bd1287",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": false,
+      "sourceId": "1oIo1DliQqPol00Q1l1bPODbdOilodod",
+      "corroborated": true
+    },
+    {
+      "title": "パ→ピ→プ→Yeah!",
+      "songId": "90558cdadbf4ec96c822",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "668Q8qQdqoIQQiIQOilDqd8lDOOQ8bDQ",
+      "corroborated": true
+    },
+    {
+      "title": "BIGソムタム",
+      "songId": "cc7b312107b77a551afd",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "66P0q8Ibddl9q669b6bD6Ood9IOQbDPI",
+      "corroborated": true
+    },
+    {
+      "title": "BIGソムタム",
+      "songId": "cc7b312107b77a551afd",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "66P0q8Ibddl9q669b6bD6Ood9IOQbDPI",
+      "corroborated": true
+    },
+    {
+      "title": "BIGソムタム",
+      "songId": "cc7b312107b77a551afd",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "66P0q8Ibddl9q669b6bD6Ood9IOQbDPI",
+      "corroborated": true
+    },
+    {
+      "title": "Can Be Real",
+      "songId": "0001ed78ba6a61a57d0c",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "68dqbIdOiiiiddlbb1OD66qq6d80I6D8",
+      "corroborated": true
+    },
+    {
+      "title": "COSMIC V3LOCITY",
+      "songId": "3877715111bdcabba042",
+      "difficulty": "DIFFICULT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "68oQQ8lO1qbi0qI8lbO60bP1098qOD88",
+      "corroborated": true
+    },
+    {
+      "title": "COSMIC V3LOCITY",
+      "songId": "3877715111bdcabba042",
+      "difficulty": "EXPERT",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "68oQQ8lO1qbi0qI8lbO60bP1098qOD88",
+      "corroborated": true
+    },
+    {
+      "title": "Ignis†Iræ",
+      "songId": "53e09d5943321abcda51",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "690bOP9iq6OboDDIbldbQD9PPill6IPb",
+      "corroborated": true
+    },
+    {
+      "title": "Ignis†Iræ",
+      "songId": "53e09d5943321abcda51",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "690bOP9iq6OboDDIbldbQD9PPill6IPb",
+      "corroborated": true
+    },
+    {
+      "title": "Gamelan de Couple",
+      "songId": "fa2fe96d4757af67a455",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "69qoD0l6olQqqbl09b069q898b600I6o",
+      "corroborated": true
+    },
+    {
+      "title": "華爛漫 -Flowers-",
+      "songId": "9528c785c74bf702e438",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "6iq1dqQ1PDQlDO0bio0l89oDDDi6b0oD",
+      "corroborated": true
+    },
+    {
+      "title": "Thunderstorm",
+      "songId": "f3eb5592832bf9029f8a",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "6lD9PQo88OI0PQ6db0I1l90lbQOP11O0",
+      "corroborated": true
+    },
+    {
+      "title": "Thunderstorm",
+      "songId": "f3eb5592832bf9029f8a",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "6lD9PQo88OI0PQ6db0I1l90lbQOP11O0",
+      "corroborated": true
+    },
+    {
+      "title": "Thunderstorm",
+      "songId": "f3eb5592832bf9029f8a",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "6lD9PQo88OI0PQ6db0I1l90lbQOP11O0",
+      "corroborated": true
+    },
+    {
+      "title": "Bad Maniacs",
+      "songId": "90c75b5e6e7351091f56",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "6O9O0ooOb8O8Q6D0ldqi1O8o6891Iq86",
+      "corroborated": true
+    },
+    {
+      "title": "Bad Maniacs",
+      "songId": "90c75b5e6e7351091f56",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "6O9O0ooOb8O8Q6D0ldqi1O8o6891Iq86",
+      "corroborated": true
+    },
+    {
+      "title": "Bad Maniacs",
+      "songId": "90c75b5e6e7351091f56",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "6O9O0ooOb8O8Q6D0ldqi1O8o6891Iq86",
+      "corroborated": true
+    },
+    {
+      "title": "Dual Bladez",
+      "songId": "f8bd88e2960f38ba6385",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "6od8bQb9i8li018bQoo8q1lddIQiqiql",
+      "corroborated": true
+    },
+    {
+      "title": "Dual Bladez",
+      "songId": "f8bd88e2960f38ba6385",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "6od8bQb9i8li018bQoo8q1lddIQiqiql",
+      "corroborated": true
+    },
+    {
+      "title": "Eira",
+      "songId": "89674d46e4bc6e967d4f",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "6PoillDiqb0Oo9qOiIDOb1qQQIbPqDoi",
+      "corroborated": true
+    },
+    {
+      "title": "Eira",
+      "songId": "89674d46e4bc6e967d4f",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "6PoillDiqb0Oo9qOiIDOb1qQQIbPqDoi",
+      "corroborated": true
+    },
+    {
+      "title": "Eira",
+      "songId": "89674d46e4bc6e967d4f",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "6PoillDiqb0Oo9qOiIDOb1qQQIbPqDoi",
+      "corroborated": true
+    },
+    {
+      "title": "Arcadia",
+      "songId": "1265287db3a94af9a617",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "6qdbqO66oOo1Q0d6I10IIIbQI9D1dDP6",
+      "corroborated": true
+    },
+    {
+      "title": "RED ZONE",
+      "songId": "7b62f765ea1334268d76",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "81QD89Q6Ob911oOoobO0D98IQ1D1q60d",
+      "corroborated": true
+    },
+    {
+      "title": "No.13",
+      "songId": "9461fd07d0f0cd70d966",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "81qibDQqq8idiD1lQqq0qdqD6i6q1QDb",
+      "corroborated": true
+    },
+    {
+      "title": "Amabie",
+      "songId": "d3963b04241246dd266b",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "86IOiO9PlqoQoPD1I811bb6PI80OQ601",
+      "corroborated": true
+    },
+    {
+      "title": "Amabie",
+      "songId": "d3963b04241246dd266b",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "86IOiO9PlqoQoPD1I811bb6PI80OQ601",
+      "corroborated": true
+    },
+    {
+      "title": "蛇神",
+      "songId": "2d60916be6fd4fa22fc2",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "88qq1I89IQ8P9PdqbbdD0ood8oi9d68I",
+      "corroborated": true
+    },
+    {
+      "title": "蛇神",
+      "songId": "2d60916be6fd4fa22fc2",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "88qq1I89IQ8P9PdqbbdD0ood8oi9d68I",
+      "corroborated": true
+    },
+    {
+      "title": "miserable life and worthless thoughts",
+      "songId": "d1140681d805918bc863",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "8bbqoo1OQdId00Oi60d8qoldb9iPb0P6",
+      "corroborated": true
+    },
+    {
+      "title": "miserable life and worthless thoughts",
+      "songId": "d1140681d805918bc863",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "8bbqoo1OQdId00Oi60d8qoldb9iPb0P6",
+      "corroborated": true
+    },
+    {
+      "title": "miserable life and worthless thoughts",
+      "songId": "d1140681d805918bc863",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "8bbqoo1OQdId00Oi60d8qoldb9iPb0P6",
+      "corroborated": true
+    },
+    {
+      "title": "月光乱舞",
+      "songId": "8dde078379f9f6304864",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "8D0OOb0bi90oi1Io9iIqqiI9110ll8I1",
+      "corroborated": true
+    },
+    {
+      "title": "月光乱舞",
+      "songId": "8dde078379f9f6304864",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "8D0OOb0bi90oi1Io9iIqqiI9110ll8I1",
+      "corroborated": true
+    },
+    {
+      "title": "月光乱舞",
+      "songId": "8dde078379f9f6304864",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "8D0OOb0bi90oi1Io9iIqqiI9110ll8I1",
+      "corroborated": true
+    },
+    {
+      "title": "volcano",
+      "songId": "06612c2832341c9e69c8",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "8idID0Pq0O68Qb0Q69P6IDldqI91qi1O",
+      "corroborated": true
+    },
+    {
+      "title": "DROP THE BOMB",
+      "songId": "dcbe6c8da2f5cb2391fc",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "8O0D9P6l9P9ooQdODioDIdQPq6DiDlbl",
+      "corroborated": true
+    },
+    {
+      "title": "LOGICAL DASH",
+      "songId": "38ea07fe0db52c7f907c",
+      "difficulty": "CHALLENGE",
+      "level": 13,
+      "newSong": false,
+      "sourceId": "8O86IP9dqQ8818ld9od8Q0PiDId6666P",
+      "corroborated": true
+    },
+    {
+      "title": "Smintheus",
+      "songId": "b5652d45765d17b1459f",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "8odoOQO89P8dq6iOlqddiDbd6ilQ19PP",
+      "corroborated": true
+    },
+    {
+      "title": "Smintheus",
+      "songId": "b5652d45765d17b1459f",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "8odoOQO89P8dq6iOlqddiDbd6ilQ19PP",
+      "corroborated": true
+    },
+    {
+      "title": "ミカヅキ:コネクト",
+      "songId": "67ca7d3b81b3d4c7d400",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "8PIO18IQqIoODlD8866Dd0I0OD8lb9ol",
+      "corroborated": true
+    },
+    {
+      "title": "ミカヅキ:コネクト",
+      "songId": "67ca7d3b81b3d4c7d400",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "8PIO18IQqIoODlD8866Dd0I0OD8lb9ol",
+      "corroborated": true
+    },
+    {
+      "title": "ミカヅキ:コネクト",
+      "songId": "67ca7d3b81b3d4c7d400",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "8PIO18IQqIoODlD8866Dd0I0OD8lb9ol",
+      "corroborated": true
+    },
+    {
+      "title": "RIZING-GAMERS.",
+      "songId": "080e8f529f82f466e621",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "8Pl66oObI8diD6b9li0o8bPlIO0iO6ib",
+      "corroborated": true
+    },
+    {
+      "title": "RIZING-GAMERS.",
+      "songId": "080e8f529f82f466e621",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "8Pl66oObI8diD6b9li0o8bPlIO0iO6ib",
+      "corroborated": true
+    },
+    {
+      "title": "fluctus",
+      "songId": "b98932451245233cc5bd",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "8qIbQqbIDDPPi10Io0QdQ8Ilod11qQdl",
+      "corroborated": true
+    },
+    {
+      "title": "fluctus",
+      "songId": "b98932451245233cc5bd",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "8qIbQqbIDDPPi10Io0QdQ8Ilod11qQdl",
+      "corroborated": true
+    },
+    {
+      "title": "Footnotes on BPM",
+      "songId": "31a3a20a6c7afc6e9ec7",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "8QlOdbOPq189DDq0dIO0b6bDl1i1dO8O",
+      "corroborated": true
+    },
+    {
+      "title": "Footnotes on BPM",
+      "songId": "31a3a20a6c7afc6e9ec7",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "8QlOdbOPq189DDq0dIO0b6bDl1i1dO8O",
+      "corroborated": true
+    },
+    {
+      "title": "La Señorita",
+      "songId": "a6af84c5acbde6aaf82f",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "901q61iP6lPiDqIQoQod9PDqlOPq1bb9",
+      "corroborated": true
+    },
+    {
+      "title": "HYPER OVERR DANCEFLOORRR",
+      "songId": "780e2cb126814d09445f",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "90DO081odOdPDblDOqQi1O68Iq988obq",
+      "corroborated": true
+    },
+    {
+      "title": "HYPER OVERR DANCEFLOORRR",
+      "songId": "780e2cb126814d09445f",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "90DO081odOdPDblDOqQi1O68Iq988obq",
+      "corroborated": true
+    },
+    {
+      "title": "ロマンシングエスケープ",
+      "songId": "2e93c02d566bf5ad1067",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "91bPDIdqPbdOIQPP68Q6IP61Io980QlI",
+      "corroborated": true
+    },
+    {
+      "title": "地方創生☆チクワクティクス",
+      "songId": "09fc2da75e9116e0ec5c",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "91dD6iqPO066do99169POPbQPbo9o6oq",
+      "corroborated": true
+    },
+    {
+      "title": "Hit Show Heroes",
+      "songId": "7039c258bd7bfab66285",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "999ddlbi9lDdQ9di1iIodO9lP0IQDoq8",
+      "corroborated": true
+    },
+    {
+      "title": "Hit Show Heroes",
+      "songId": "7039c258bd7bfab66285",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "999ddlbi9lDdQ9di1iIodO9lP0IQDoq8",
+      "corroborated": true
+    },
+    {
+      "title": "Komainu Adventure!",
+      "songId": "4c74c142340c6d79c756",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "9ddIP1i0O6l8oO9iI9Ii1Q1o800boQ0D",
+      "corroborated": true
+    },
+    {
+      "title": "Komainu Adventure!",
+      "songId": "4c74c142340c6d79c756",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "9ddIP1i0O6l8oO9iI9Ii1Q1o800boQ0D",
+      "corroborated": true
+    },
+    {
+      "title": "Komainu Adventure!",
+      "songId": "4c74c142340c6d79c756",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "9ddIP1i0O6l8oO9iI9Ii1Q1o800boQ0D",
+      "corroborated": true
+    },
+    {
+      "title": "STOIC HYPOTHESIS",
+      "songId": "6649c629a64956ff973f",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "9DIIo619qoDqIOb1091b816dbl0IlllD",
+      "corroborated": true
+    },
+    {
+      "title": "STOIC HYPOTHESIS",
+      "songId": "6649c629a64956ff973f",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "9DIIo619qoDqIOb1091b816dbl0IlllD",
+      "corroborated": true
+    },
+    {
+      "title": "コメット⇒スケイター",
+      "songId": "1b72bcf94649bcec0276",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "9ioI0IQ16OPb1Q0q8Oqdd6D9dPqDb618",
+      "corroborated": true
+    },
+    {
+      "title": "コメット⇒スケイター",
+      "songId": "1b72bcf94649bcec0276",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "9ioI0IQ16OPb1Q0q8Oqdd6D9dPqDb618",
+      "corroborated": true
+    },
+    {
+      "title": "コメット⇒スケイター",
+      "songId": "1b72bcf94649bcec0276",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "9ioI0IQ16OPb1Q0q8Oqdd6D9dPqDb618",
+      "corroborated": true
+    },
+    {
+      "title": "量子の海のリントヴルム (STARDOM Remix)",
+      "songId": "da5c7b7155604582e1fb",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "9PO0qPdi1OQo68Qb09qdIOo6008QoIPq",
+      "corroborated": true
+    },
+    {
+      "title": "量子の海のリントヴルム (STARDOM Remix)",
+      "songId": "da5c7b7155604582e1fb",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "9PO0qPdi1OQo68Qb09qdIOo6008QoIPq",
+      "corroborated": true
+    },
+    {
+      "title": "量子の海のリントヴルム (STARDOM Remix)",
+      "songId": "da5c7b7155604582e1fb",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "9PO0qPdi1OQo68Qb09qdIOo6008QoIPq",
+      "corroborated": true
+    },
+    {
+      "title": "Mind Parasite",
+      "songId": "73f0b5a957eae824443b",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "b6dqPiOO6iO6b8D90Ido6QPOlObd9o98",
+      "corroborated": true
+    },
+    {
+      "title": "Fizzing Steps",
+      "songId": "be86f073dfed61c5d651",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "b6l0o09QQ0oIPql18I9QlQq0b6lQoldl",
+      "corroborated": true
+    },
+    {
+      "title": "Fizzing Steps",
+      "songId": "be86f073dfed61c5d651",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "b6l0o09QQ0oIPql18I9QlQq0b6lQoldl",
+      "corroborated": true
+    },
+    {
+      "title": "旅人リラン",
+      "songId": "4919e6d86045e034bb9f",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "b8QDI09il61i0qlO9IibPQPiqQOoi6iQ",
+      "corroborated": true
+    },
+    {
+      "title": "旅人リラン",
+      "songId": "4919e6d86045e034bb9f",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "b8QDI09il61i0qlO9IibPQPiqQOoi6iQ",
+      "corroborated": true
+    },
+    {
+      "title": "罪と罰",
+      "songId": "ee2a873624087d76b0b5",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "b9iI8O6bd0bq0I1OoooQ9i9iddidODbO",
+      "corroborated": true
+    },
+    {
+      "title": "罪と罰",
+      "songId": "ee2a873624087d76b0b5",
+      "difficulty": "EXPERT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "b9iI8O6bd0bq0I1OoooQ9i9iddidODbO",
+      "corroborated": true
+    },
+    {
+      "title": "Astra Blaze",
+      "songId": "ea10c9eae56befc66252",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "b9Qbd61bPOPiDIPdIO9oqqo9D1Q6qdoQ",
+      "corroborated": true
+    },
+    {
+      "title": "Astra Blaze",
+      "songId": "ea10c9eae56befc66252",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "b9Qbd61bPOPiDIPdIO9oqqo9D1Q6qdoQ",
+      "corroborated": true
+    },
+    {
+      "title": "MonstaFesta",
+      "songId": "dcdc0c8840cd0af07970",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "bli9QPODl80dblbbibo6dDDi6QII0l81",
+      "corroborated": true
+    },
+    {
+      "title": "MonstaFesta",
+      "songId": "dcdc0c8840cd0af07970",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "bli9QPODl80dblbbibo6dDDi6QII0l81",
+      "corroborated": true
+    },
+    {
+      "title": "Unreality",
+      "songId": "64311ad278721f6246bf",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "boDqoIDqDlP1io6bQ0O10diDbbqOD96I",
+      "corroborated": true
+    },
+    {
+      "title": "HORIZON BEATZ",
+      "songId": "c755a54b00dd42ac096c",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "bOOIQqdDllioii8Ill98dIQbbloQ8Do1",
+      "corroborated": true
+    },
+    {
+      "title": "HORIZON BEATZ",
+      "songId": "c755a54b00dd42ac096c",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "bOOIQqdDllioii8Ill98dIQbbloQ8Do1",
+      "corroborated": true
+    },
+    {
+      "title": "Beyond The Earth",
+      "songId": "bf3efbc7b7ee87fdb7ff",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "bP61iObqb9Oo1IOQOdlQ0idilOII9O66",
+      "corroborated": true
+    },
+    {
+      "title": "Beyond The Earth",
+      "songId": "bf3efbc7b7ee87fdb7ff",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "bP61iObqb9Oo1IOQOdlQ0idilOII9O66",
+      "corroborated": true
+    },
+    {
+      "title": "ECSTASY",
+      "songId": "92f9bcf9a3f96e48baae",
+      "difficulty": "CHALLENGE",
+      "level": 13,
+      "newSong": false,
+      "sourceId": "bPD6ObloQPOOiQb1DbQDdilodiddlIlb",
+      "corroborated": true
+    },
+    {
+      "title": "Quick Master",
+      "songId": "c5035c047373741b9c7e",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "D01oOb0IOQ1bbIIdi88O0d80Qo9dblqP",
+      "corroborated": true
+    },
+    {
+      "title": "SCREW // owo // SCREW",
+      "songId": "bfc2d3af58753b25c4d3",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "D0dPPodlDQO9lQblI6PP1OIIQPO61O1D",
+      "corroborated": true
+    },
+    {
+      "title": "SCREW // owo // SCREW",
+      "songId": "bfc2d3af58753b25c4d3",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "D0dPPodlDQO9lQblI6PP1OIIQPO61O1D",
+      "corroborated": true
+    },
+    {
+      "title": "朱と碧のランページ",
+      "songId": "26bad8f5dc8d82af23d7",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "d6Doi9oi600lP9lI9iiO8q68li8iOO8D",
+      "corroborated": true
+    },
+    {
+      "title": "朱と碧のランページ",
+      "songId": "26bad8f5dc8d82af23d7",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "d6Doi9oi600lP9lI9iiO8q68li8iOO8D",
+      "corroborated": true
+    },
+    {
+      "title": "Burstix Comet",
+      "songId": "b530400e8525436a1e7a",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "d88qo6I08PI8lDiiPoo0o8lPdqQDiq01",
+      "corroborated": true
+    },
+    {
+      "title": "Burstix Comet",
+      "songId": "b530400e8525436a1e7a",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "d88qo6I08PI8lDiiPoo0o8lPdqQDiq01",
+      "corroborated": true
+    },
+    {
+      "title": "QuoN",
+      "songId": "8922451072b5be49309b",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "d8l6ob1IPiQOlPI8i88oQqO10Ql6ibl6",
+      "corroborated": true
+    },
+    {
+      "title": "QuoN",
+      "songId": "8922451072b5be49309b",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "d8l6ob1IPiQOlPI8i88oQqO10Ql6ibl6",
+      "corroborated": true
+    },
+    {
+      "title": "QuoN",
+      "songId": "8922451072b5be49309b",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "d8l6ob1IPiQOlPI8i88oQqO10Ql6ibl6",
+      "corroborated": true
+    },
+    {
+      "title": "Love You",
+      "songId": "5e812cd16e41eefd88aa",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "D8o868di9DidPo98ibOdqbi98Ii869Qb",
+      "corroborated": true
+    },
+    {
+      "title": "Love You",
+      "songId": "5e812cd16e41eefd88aa",
+      "difficulty": "EXPERT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "D8o868di9DidPo98ibOdqbi98Ii869Qb",
+      "corroborated": true
+    },
+    {
+      "title": "Meteor",
+      "songId": "115fffd23ff5901a7552",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "d9iqoill801Q891P1OiPDIbDlQ9qoQ1b",
+      "corroborated": true
+    },
+    {
+      "title": "Meteor",
+      "songId": "115fffd23ff5901a7552",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "d9iqoill801Q891P1OiPDIbDlQ9qoQ1b",
+      "corroborated": true
+    },
+    {
+      "title": "Meteor",
+      "songId": "115fffd23ff5901a7552",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "d9iqoill801Q891P1OiPDIbDlQ9qoQ1b",
+      "corroborated": true
+    },
+    {
+      "title": "True Blue",
+      "songId": "cd72ebc8dda1b2997dc2",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "D9lq0DioIl9D6ll0d61990DP9qPPb1dP",
+      "corroborated": true
+    },
+    {
+      "title": "恋歌疾風！かるたクイーンいろは",
+      "songId": "43c3ae2adf944077fd45",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "db6q6DlPd68bbQOOQ99OI1I9QD8PqDo8",
+      "corroborated": true
+    },
+    {
+      "title": "恋歌疾風！かるたクイーンいろは",
+      "songId": "43c3ae2adf944077fd45",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "db6q6DlPd68bbQOOQ99OI1I9QD8PqDo8",
+      "corroborated": true
+    },
+    {
+      "title": "恋歌疾風！かるたクイーンいろは",
+      "songId": "43c3ae2adf944077fd45",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "db6q6DlPd68bbQOOQ99OI1I9QD8PqDo8",
+      "corroborated": true
+    },
+    {
+      "title": "Blφφdy Cφncertφ",
+      "songId": "da6013aebfbbc7b01be6",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "dbIQ6o1lDi1OqqdO60q0lqqD9qPD0qlP",
+      "corroborated": true
+    },
+    {
+      "title": "Blφφdy Cφncertφ",
+      "songId": "da6013aebfbbc7b01be6",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "dbIQ6o1lDi1OqqdO60q0lqqD9qPD0qlP",
+      "corroborated": true
+    },
+    {
+      "title": "Blφφdy Cφncertφ",
+      "songId": "da6013aebfbbc7b01be6",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "dbIQ6o1lDi1OqqdO60q0lqqD9qPD0qlP",
+      "corroborated": true
+    },
+    {
+      "title": "鳳 (Five Flares Mix)",
+      "songId": "32ebf045baaf2c11d586",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Dbl69I9bO9qo6iidPbPPPD11boQPqi8q",
+      "corroborated": true
+    },
+    {
+      "title": "鳳 (Five Flares Mix)",
+      "songId": "32ebf045baaf2c11d586",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "Dbl69I9bO9qo6iidPbPPPD11boQPqi8q",
+      "corroborated": true
+    },
+    {
+      "title": "鳳 (Five Flares Mix)",
+      "songId": "32ebf045baaf2c11d586",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Dbl69I9bO9qo6iidPbPPPD11boQPqi8q",
+      "corroborated": true
+    },
+    {
+      "title": "愛氏AIされ",
+      "songId": "ce53de58d435ed2adb16",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "dD6DOI1lDI8o90iO006Dl96D1doDdQ69",
+      "corroborated": true
+    },
+    {
+      "title": "愛氏AIされ",
+      "songId": "ce53de58d435ed2adb16",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "dD6DOI1lDI8o90iO006Dl96D1doDdQ69",
+      "corroborated": true
+    },
+    {
+      "title": "Nostalgic Blood of the Strife",
+      "songId": "7b974214ce44559f6c4b",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "dddOii88ql08800lqobbDODIQOP999DI",
+      "corroborated": true
+    },
+    {
+      "title": "Nostalgic Blood of the Strife",
+      "songId": "7b974214ce44559f6c4b",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "dddOii88ql08800lqobbDODIQOP999DI",
+      "corroborated": true
+    },
+    {
+      "title": "EYE OF THE HEAVEN",
+      "songId": "f30f1b57a8f4a2033a78",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "dDIbQIPo0PIoIP6lbbl8q9Q1Q8ib9P18",
+      "corroborated": true
+    },
+    {
+      "title": "EYE OF THE HEAVEN",
+      "songId": "f30f1b57a8f4a2033a78",
+      "difficulty": "EXPERT",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "dDIbQIPo0PIoIP6lbbl8q9Q1Q8ib9P18",
+      "corroborated": true
+    },
+    {
+      "title": "迷宮のロンド",
+      "songId": "7210d3f1f6e1a088299b",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "DDlbDddPO8liioQ196P0I9090bDDPQ6Q",
+      "corroborated": true
+    },
+    {
+      "title": "迷宮のロンド",
+      "songId": "7210d3f1f6e1a088299b",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "DDlbDddPO8liioQ196P0I9090bDDPQ6Q",
+      "corroborated": true
+    },
+    {
+      "title": "迷宮のロンド",
+      "songId": "7210d3f1f6e1a088299b",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "DDlbDddPO8liioQ196P0I9090bDDPQ6Q",
+      "corroborated": true
+    },
+    {
+      "title": "Any%",
+      "songId": "181b15f91ca3d4702855",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "DDQ9q1dd0lob0iOo9iql1boPoIq8ioDo",
+      "corroborated": true
+    },
+    {
+      "title": "Any%",
+      "songId": "181b15f91ca3d4702855",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "DDQ9q1dd0lob0iOo9iql1boPoIq8ioDo",
+      "corroborated": true
+    },
+    {
+      "title": "羽根亡キ少女唄",
+      "songId": "b2bea4d1da6ef1223ee5",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "dI0q9QdPOI1lq6888qI980dqll6dbqib",
+      "corroborated": true
+    },
+    {
+      "title": "羽根亡キ少女唄",
+      "songId": "b2bea4d1da6ef1223ee5",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "dI0q9QdPOI1lq6888qI980dqll6dbqib",
+      "corroborated": true
+    },
+    {
+      "title": "CUTIE CHASER",
+      "songId": "7b1afa17268dfaf12c48",
+      "difficulty": "CHALLENGE",
+      "level": 13,
+      "newSong": false,
+      "sourceId": "di9ddbd1lb80q98ODdod0ODQ0q6PdQP1",
+      "corroborated": true
+    },
+    {
+      "title": "輪廻の鴉",
+      "songId": "6ace83e7da4b5b9dd39e",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "dIiD86llO8biiDollQ1ioIoQl6iQ8dbQ",
+      "corroborated": true
+    },
+    {
+      "title": "V!LLA!N",
+      "songId": "cbb960a8b9521fda72e1",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "diO61POQ9odliiqoq0ii0Q6OOid9oOIi",
+      "corroborated": true
+    },
+    {
+      "title": "V!LLA!N",
+      "songId": "cbb960a8b9521fda72e1",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "diO61POQ9odliiqoq0ii0Q6OOid9oOIi",
+      "corroborated": true
+    },
+    {
+      "title": "逆月",
+      "songId": "37104a3d0b35611bcb27",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Dl89dQdOQooI0i0DoPQd68db6di86PD8",
+      "corroborated": true
+    },
+    {
+      "title": "逆月",
+      "songId": "37104a3d0b35611bcb27",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "Dl89dQdOQooI0i0DoPQd68db6di86PD8",
+      "corroborated": true
+    },
+    {
+      "title": "逆月",
+      "songId": "37104a3d0b35611bcb27",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Dl89dQdOQooI0i0DoPQd68db6di86PD8",
+      "corroborated": true
+    },
+    {
+      "title": "New Millennium Pt.2",
+      "songId": "265776b12cd38d6f6ab8",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "dlbqIDqQiolDo6qdoQli6OO9lQolP6Iq",
+      "corroborated": true
+    },
+    {
+      "title": "New Millennium Pt.2",
+      "songId": "265776b12cd38d6f6ab8",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "dlbqIDqQiolDo6qdoQli6OO9lQolP6Iq",
+      "corroborated": true
+    },
+    {
+      "title": "New Millennium Pt.2",
+      "songId": "265776b12cd38d6f6ab8",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "dlbqIDqQiolDo6qdoQli6OO9lQolP6Iq",
+      "corroborated": true
+    },
+    {
+      "title": "S.O.D",
+      "songId": "44f9e68cdcbdc5271fcf",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "Dld100o9l88o6qqId6O96IbiIQiOdbQD",
+      "corroborated": true
+    },
+    {
+      "title": "S.O.D",
+      "songId": "44f9e68cdcbdc5271fcf",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Dld100o9l88o6qqId6O96IbiIQiOdbQD",
+      "corroborated": true
+    },
+    {
+      "title": "Ganymede -re:born-",
+      "songId": "5581770ee1109ca17b6d",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "Dlo0PPibIoQbOI8I61O1DobQOIiDb11b",
+      "corroborated": true
+    },
+    {
+      "title": "Ganymede -re:born-",
+      "songId": "5581770ee1109ca17b6d",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Dlo0PPibIoQbOI8I61O1DobQOIiDb11b",
+      "corroborated": true
+    },
+    {
+      "title": "Ganymede -re:born-",
+      "songId": "5581770ee1109ca17b6d",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "Dlo0PPibIoQbOI8I61O1DobQOIiDb11b",
+      "corroborated": true
+    },
+    {
+      "title": "Harmonia",
+      "songId": "597b35de134845cbd976",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "DlQ190o8bqO8oOQ0Iqloql6lIlPP9qO9",
+      "corroborated": true
+    },
+    {
+      "title": "Harmonia",
+      "songId": "597b35de134845cbd976",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "DlQ190o8bqO8oOQ0Iqloql6lIlPP9qO9",
+      "corroborated": true
+    },
+    {
+      "title": "Harmonia",
+      "songId": "597b35de134845cbd976",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "DlQ190o8bqO8oOQ0Iqloql6lIlPP9qO9",
+      "corroborated": true
+    },
+    {
+      "title": "ハイテックトキオ",
+      "songId": "1e4e66b56421505aa122",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "DOd9bIqddQ91qbQI1bdbbDi1lqPObo8l",
+      "corroborated": true
+    },
+    {
+      "title": "ハイテックトキオ",
+      "songId": "1e4e66b56421505aa122",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "DOd9bIqddQ91qbQI1bdbbDi1lqPObo8l",
+      "corroborated": true
+    },
+    {
+      "title": "ハイテックトキオ",
+      "songId": "1e4e66b56421505aa122",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "DOd9bIqddQ91qbQI1bdbbDi1lqPObo8l",
+      "corroborated": true
+    },
+    {
+      "title": "サナ・モレッテ・ネ・エンテ",
+      "songId": "3ed75b92fbf46cb94f43",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "doIiQl6oDPP6i9qobqoobblPQqPiI9bD",
+      "corroborated": true
+    },
+    {
+      "title": "OROCHI STRIKE",
+      "songId": "83c74d2517ec4cccec26",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "dOilPdQDPQP0l8Po6Pli96i010d88dii",
+      "corroborated": true
+    },
+    {
+      "title": "OROCHI STRIKE",
+      "songId": "83c74d2517ec4cccec26",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "dOilPdQDPQP0l8Po6Pli96i010d88dii",
+      "corroborated": true
+    },
+    {
+      "title": "HyperNOAH",
+      "songId": "1b00af58f1b4e95563a5",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "DoOoDio1q81OQdoOO0b6bPQPOoq6I0Qi",
+      "corroborated": true
+    },
+    {
+      "title": "HyperNOAH",
+      "songId": "1b00af58f1b4e95563a5",
+      "difficulty": "EXPERT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "DoOoDio1q81OQdoOO0b6bPQPOoq6I0Qi",
+      "corroborated": true
+    },
+    {
+      "title": "PARANOIA EVOLUTION",
+      "songId": "d5678fd00294c6c9a9c8",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": false,
+      "sourceId": "DPQo8Q0l9D8IPiDiq11l8OI6i11OOb6O",
+      "corroborated": true
+    },
+    {
+      "title": "GENOM SCREAMS",
+      "songId": "9e297104facc2dbe1b63",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "Dq0Iio09Pb9iD0lbb0I0qd8Q8i10II09",
+      "corroborated": true
+    },
+    {
+      "title": "ポルカドット・ダンス・ガール",
+      "songId": "2fbd5c7cd77f2c026906",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "Dq6II6Q81DQIiP6l69b1id6D0QQO9Dld",
+      "corroborated": true
+    },
+    {
+      "title": "ポルカドット・ダンス・ガール",
+      "songId": "2fbd5c7cd77f2c026906",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Dq6II6Q81DQIiP6l69b1id6D0QQO9Dld",
+      "corroborated": true
+    },
+    {
+      "title": "REINCARNATION",
+      "songId": "5f7cbbe40982121a9470",
+      "difficulty": "DIFFICULT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "DqIO9PI98blQlid88dQiO0ldoiobOqdb",
+      "corroborated": true
+    },
+    {
+      "title": "REINCARNATION",
+      "songId": "5f7cbbe40982121a9470",
+      "difficulty": "EXPERT",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "DqIO9PI98blQlid88dQiO0ldoiobOqdb",
+      "corroborated": true
+    },
+    {
+      "title": "BILLION MONEY BAZOOKA",
+      "songId": "8c5dd525a1d8da250d5b",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "DqO9bl89lll1009obqQD9iiIIo9oQ16Q",
+      "corroborated": true
+    },
+    {
+      "title": "BILLION MONEY BAZOOKA",
+      "songId": "8c5dd525a1d8da250d5b",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "DqO9bl89lll1009obqQD9iiIIo9oQ16Q",
+      "corroborated": true
+    },
+    {
+      "title": "My Drama",
+      "songId": "6a6242ebc03c741524cd",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "DQqO696iPldD6olDOOdP09l08ll989l8",
+      "corroborated": true
+    },
+    {
+      "title": "Saiph",
+      "songId": "573a1aa4609931e11ec1",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "i09oqb0o1boQdi1blIb1D08PlDI1o6lo",
+      "corroborated": true
+    },
+    {
+      "title": "Saiph",
+      "songId": "573a1aa4609931e11ec1",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "i09oqb0o1boQdi1blIb1D08PlDI1o6lo",
+      "corroborated": true
+    },
+    {
+      "title": "Saiph",
+      "songId": "573a1aa4609931e11ec1",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "i09oqb0o1boQdi1blIb1D08PlDI1o6lo",
+      "corroborated": true
+    },
+    {
+      "title": "neu (STARDOM Remix)",
+      "songId": "11e5ce51868ae5fb01f7",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "I0qq8i9i68DoOQDd1q6iPqO6P9l10IQD",
+      "corroborated": true
+    },
+    {
+      "title": "neu (STARDOM Remix)",
+      "songId": "11e5ce51868ae5fb01f7",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "I0qq8i9i68DoOQDd1q6iPqO6P9l10IQD",
+      "corroborated": true
+    },
+    {
+      "title": "neu (STARDOM Remix)",
+      "songId": "11e5ce51868ae5fb01f7",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "I0qq8i9i68DoOQDd1q6iPqO6P9l10IQD",
+      "corroborated": true
+    },
+    {
+      "title": "Ødyssey",
+      "songId": "809fc8c1474ba0c9069f",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "I18Iolqio01IlPi9QIqPQ8Q9O6iOod0O",
+      "corroborated": true
+    },
+    {
+      "title": "Ødyssey",
+      "songId": "809fc8c1474ba0c9069f",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "I18Iolqio01IlPi9QIqPQ8Q9O6iOod0O",
+      "corroborated": true
+    },
+    {
+      "title": "Ødyssey",
+      "songId": "809fc8c1474ba0c9069f",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "I18Iolqio01IlPi9QIqPQ8Q9O6iOod0O",
+      "corroborated": true
+    },
+    {
+      "title": "MYSTIC CUBE",
+      "songId": "a3f3b085e2f34adfc2f2",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "i1QlPD8oooQ6lQq9Oo9qdi9q0Q0QqdoQ",
+      "corroborated": true
+    },
+    {
+      "title": "MYSTIC CUBE",
+      "songId": "a3f3b085e2f34adfc2f2",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "i1QlPD8oooQ6lQq9Oo9qdi9q0Q0QqdoQ",
+      "corroborated": true
+    },
+    {
+      "title": "シャムシールの舞",
+      "songId": "2024024b097f8f6c541a",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "i6bb1iQb8qObPd09dOlibbdqb91Q0OOb",
+      "corroborated": true
+    },
+    {
+      "title": "シャムシールの舞",
+      "songId": "2024024b097f8f6c541a",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "i6bb1iQb8qObPd09dOlibbdqb91Q0OOb",
+      "corroborated": true
+    },
+    {
+      "title": "Funk Boogie",
+      "songId": "fe5228df8e14efdec079",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "i6Q00D16PbbQPl19oibiiQ6qQD01D6o8",
+      "corroborated": true
+    },
+    {
+      "title": "BURNING HEAT！（3 Option MIX）",
+      "songId": "64a72ca41d0b5f8bb1e3",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "i86qD6Pl61dPI0Q9db1P8bl1ii99q1lD",
+      "corroborated": true
+    },
+    {
+      "title": "PARANOiA: STOMP, STOMP, STOMP",
+      "songId": "3810d6773233ca115e9a",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "I91iOPbIbDOqI6iO6bPQ0d0q8Q8IlIid",
+      "corroborated": true
+    },
+    {
+      "title": "PARANOiA: STOMP, STOMP, STOMP",
+      "songId": "3810d6773233ca115e9a",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "I91iOPbIbDOqI6iO6bPQ0d0q8Q8IlIid",
+      "corroborated": true
+    },
+    {
+      "title": "O JIYA",
+      "songId": "7c276ef80ffd662a3c63",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "I98DbDO1OqIPD9Q608DqoO1I6Iqi1ddo",
+      "corroborated": true
+    },
+    {
+      "title": "O JIYA",
+      "songId": "7c276ef80ffd662a3c63",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "I98DbDO1OqIPD9Q608DqoO1I6Iqi1ddo",
+      "corroborated": true
+    },
+    {
+      "title": "O JIYA",
+      "songId": "7c276ef80ffd662a3c63",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "I98DbDO1OqIPD9Q608DqoO1I6Iqi1ddo",
+      "corroborated": true
+    },
+    {
+      "title": "Decryption",
+      "songId": "32294b634b0157fb57ff",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "i9olPli6l8iDi88DPIbiDibPbIibb9l0",
+      "corroborated": true
+    },
+    {
+      "title": "Decryption",
+      "songId": "32294b634b0157fb57ff",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "i9olPli6l8iDi88DPIbiDibPbIibb9l0",
+      "corroborated": true
+    },
+    {
+      "title": "Superior MAXXX",
+      "songId": "ba321d953356ee4bf203",
+      "difficulty": "DIFFICULT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "ibDqd11d81i8ll91bib9I6IoDqdl6D8O",
+      "corroborated": true
+    },
+    {
+      "title": "Superior MAXXX",
+      "songId": "ba321d953356ee4bf203",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "ibDqd11d81i8ll91bib9I6IoDqdl6D8O",
+      "corroborated": true
+    },
+    {
+      "title": "Superior MAXXX",
+      "songId": "ba321d953356ee4bf203",
+      "difficulty": "CHALLENGE",
+      "level": 19,
+      "newSong": true,
+      "sourceId": "ibDqd11d81i8ll91bib9I6IoDqdl6D8O",
+      "corroborated": true
+    },
+    {
+      "title": "怒れる大きな白い馬",
+      "songId": "b69d7f258a956c67a4d9",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "ibI0QllidqQ089ql8dob6bIoodbbIoqq",
+      "corroborated": true
+    },
+    {
+      "title": "足神様ノ復活祭",
+      "songId": "010d3495ae6ae8896c1d",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "iD8qIio8d1QQblQ06iPDlo69D9bQI9b8",
+      "corroborated": true
+    },
+    {
+      "title": "足神様ノ復活祭",
+      "songId": "010d3495ae6ae8896c1d",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "iD8qIio8d1QQblQ06iPDlo69D9bQI9b8",
+      "corroborated": true
+    },
+    {
+      "title": "足神様ノ復活祭",
+      "songId": "010d3495ae6ae8896c1d",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "iD8qIio8d1QQblQ06iPDlo69D9bQI9b8",
+      "corroborated": true
+    },
+    {
+      "title": "Lucy",
+      "songId": "87f926260823057c1e20",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "iD9lOD90O1QD0D90Qi9dqQq6iq6IIIqq",
+      "corroborated": true
+    },
+    {
+      "title": "Lucy",
+      "songId": "87f926260823057c1e20",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "iD9lOD90O1QD0D90Qi9dqQq6iq6IIIqq",
+      "corroborated": true
+    },
+    {
+      "title": "MODEL FT2 Miracle Version",
+      "songId": "8ea31f10e6eed8b203c7",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "IdDblQIbq8Di9iOo61O0bQIIPqPQ16o8",
+      "corroborated": true
+    },
+    {
+      "title": "MODEL FT2 Miracle Version",
+      "songId": "8ea31f10e6eed8b203c7",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "IdDblQIbq8Di9iOo61O0bQIIPqPQ16o8",
+      "corroborated": true
+    },
+    {
+      "title": "MODEL FT2 Miracle Version",
+      "songId": "8ea31f10e6eed8b203c7",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "IdDblQIbq8Di9iOo61O0bQIIPqPQ16o8",
+      "corroborated": true
+    },
+    {
+      "title": "華麗なる！音戯探偵ひなビタ♫",
+      "songId": "9273684226ff53bdbbdb",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "iDDDD0OI8iPdPPo90l0Io8q80i9qdb9P",
+      "corroborated": true
+    },
+    {
+      "title": "STOMP!!",
+      "songId": "bd01f4e89bf4deaf85a2",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "IdPl6QoiqIl86iQ1QdIoDQdqlq98OIib",
+      "corroborated": true
+    },
+    {
+      "title": "STOMP!!",
+      "songId": "bd01f4e89bf4deaf85a2",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "IdPl6QoiqIl86iQ1QdIoDQdqlq98OIib",
+      "corroborated": true
+    },
+    {
+      "title": "踊るフィーバーロボ　Eu-Robot mix",
+      "songId": "430df8d07c6bbdbd2cc0",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "IDQb8bO8bq1qq1l6olilP11PddbIdi89",
+      "corroborated": true
+    },
+    {
+      "title": "踊るフィーバーロボ　Eu-Robot mix",
+      "songId": "430df8d07c6bbdbd2cc0",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "IDQb8bO8bq1qq1l6olilP11PddbIdi89",
+      "corroborated": true
+    },
+    {
+      "title": "Autosummer",
+      "songId": "98651d0edadecb70c051",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "iiDdl6b6Pb81oIPbd1DPPQOI1iq0D6ol",
+      "corroborated": true
+    },
+    {
+      "title": "Autosummer",
+      "songId": "98651d0edadecb70c051",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "iiDdl6b6Pb81oIPbd1DPPQOI1iq0D6ol",
+      "corroborated": true
+    },
+    {
+      "title": "スペクター・チェイサー",
+      "songId": "dcae9c2a5a71585effe6",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "iidQ6i16lIQl96iq0Qd8lol1oo66loo8",
+      "corroborated": true
+    },
+    {
+      "title": "スペクター・チェイサー",
+      "songId": "dcae9c2a5a71585effe6",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "iidQ6i16lIQl96iq0Qd8lol1oo66loo8",
+      "corroborated": true
+    },
+    {
+      "title": "BROKEN MY HEART",
+      "songId": "132f20af1ea205a6ce6e",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "iIP09bOq1l1b9b1l011IDIQ6Iill90Io",
+      "corroborated": true
+    },
+    {
+      "title": "幸せのマ法は解けなイ.*・.+ ☆",
+      "songId": "234ac81bfb527b0a3c7a",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "ild9d0O9D09dlOP986089i9POPDoP6iD",
+      "corroborated": true
+    },
+    {
+      "title": "幸せのマ法は解けなイ.*・.+ ☆",
+      "songId": "234ac81bfb527b0a3c7a",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "ild9d0O9D09dlOP986089i9POPDoP6iD",
+      "corroborated": true
+    },
+    {
+      "title": "I LOVE SAKURA",
+      "songId": "f92e00d6f8e2d58a1714",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "ilio9d6DlI9b1oQi6919oOO1di09P916",
+      "corroborated": true
+    },
+    {
+      "title": "I LOVE SAKURA",
+      "songId": "f92e00d6f8e2d58a1714",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "ilio9d6DlI9b1oQi6919oOO1di09P916",
+      "corroborated": true
+    },
+    {
+      "title": "TSUGARU",
+      "songId": "85b8e75cbbfbb1633afd",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "io688qld6Pqq6bI01q86illP18biq0bd",
+      "corroborated": true
+    },
+    {
+      "title": "Meteor☆Shower",
+      "songId": "176f6878c0a5a8e5fa98",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "IObOi8dQo68Q19DI9oD8DI9O81IPqOlQ",
+      "corroborated": true
+    },
+    {
+      "title": "Meteor☆Shower",
+      "songId": "176f6878c0a5a8e5fa98",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "IObOi8dQo68Q19DI9oD8DI9O81IPqOlQ",
+      "corroborated": true
+    },
+    {
+      "title": "Don't Stop The HYPERCORE",
+      "songId": "4582b04280756ae2e809",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "iQ0qQP11I8I9D9oIdllbP6989PDiiPoI",
+      "corroborated": true
+    },
+    {
+      "title": "SURVIVAL AT THE END OF THE UNIVERSE",
+      "songId": "a01712cd62bfa17a11ed",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "iq6b9lP6qQQIOIPQDdPD8ld1o9891Pq9",
+      "corroborated": true
+    },
+    {
+      "title": "バッドユース・アウェイク",
+      "songId": "26e150beb9ebe6e0d905",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "iQi1DOQoqI6Q08I89PQD8iIQloPd190I",
+      "corroborated": true
+    },
+    {
+      "title": "D2R",
+      "songId": "a9138478e1994db73a95",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "iQo0QOoI6bOPQlbb9ldOo9lbdD1idiOO",
+      "corroborated": true
+    },
+    {
+      "title": "CaptivAte～誓い～",
+      "songId": "94ec43ea42411a6a3cef",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "Iqo9PQiPbq8Q0I6io6lPIDi608lQqbbq",
+      "corroborated": true
+    },
+    {
+      "title": "Proof of the existence",
+      "songId": "eba52fb39540a3a02693",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "iqOqI9bQl1Q0qDb0086Dd80OOi80P166",
+      "corroborated": true
+    },
+    {
+      "title": "Proof of the existence",
+      "songId": "eba52fb39540a3a02693",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "iqOqI9bQl1Q0qDb0086Dd80OOi80P166",
+      "corroborated": true
+    },
+    {
+      "title": "Proof of the existence",
+      "songId": "eba52fb39540a3a02693",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "iqOqI9bQl1Q0qDb0086Dd80OOi80P166",
+      "corroborated": true
+    },
+    {
+      "title": "DanRevoAthlon",
+      "songId": "cc4ef841c43243318143",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "l08OoDq6P9DIQo1Po0Pdd80qoq6QID9o",
+      "corroborated": true
+    },
+    {
+      "title": "Re:RHYZE",
+      "songId": "fe9f9ca240318dfcd80f",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "l1b8iDqOdQl6PbIIdb966qQ8d9i9dOPQ",
+      "corroborated": true
+    },
+    {
+      "title": "Re:RHYZE",
+      "songId": "fe9f9ca240318dfcd80f",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "l1b8iDqOdQl6PbIIdb966qQ8d9i9dOPQ",
+      "corroborated": true
+    },
+    {
+      "title": "Re:RHYZE",
+      "songId": "fe9f9ca240318dfcd80f",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "l1b8iDqOdQl6PbIIdb966qQ8d9i9dOPQ",
+      "corroborated": true
+    },
+    {
+      "title": "tricky trick",
+      "songId": "ad0e752f96e8c29866af",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "l6Dbo9DQD0PIb0lbDDb66qqObOloDP6P",
+      "corroborated": true
+    },
+    {
+      "title": "tricky trick",
+      "songId": "ad0e752f96e8c29866af",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "l6Dbo9DQD0PIb0lbDDb66qqObOloDP6P",
+      "corroborated": true
+    },
+    {
+      "title": "LubedeR",
+      "songId": "c2ec98180928b8285bb4",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "l8IqlD99d81l6PdldDql08ODOQo6lDdq",
+      "corroborated": true
+    },
+    {
+      "title": "LubedeR",
+      "songId": "c2ec98180928b8285bb4",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "l8IqlD99d81l6PdldDql08ODOQo6lDdq",
+      "corroborated": true
+    },
+    {
+      "title": "WONDER COASTER",
+      "songId": "901f088afcf178e5971f",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "lDdID1ili0D0i10bdiO06Q8OqDIdo91l",
+      "corroborated": true
+    },
+    {
+      "title": "WONDER COASTER",
+      "songId": "901f088afcf178e5971f",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "lDdID1ili0D0i10bdiO06Q8OqDIdo91l",
+      "corroborated": true
+    },
+    {
+      "title": "The legend of MAX",
+      "songId": "99798dfc1ce448a0ab7f",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": false,
+      "sourceId": "li608di8PolqqIP808iddOqi11qDDq0Q",
+      "corroborated": true
+    },
+    {
+      "title": "I'll Be With You",
+      "songId": "b2c489183ce6eee59b8f",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "lIPQl8P18I99b90iD86OI1Qq0OI1OPDb",
+      "corroborated": true
+    },
+    {
+      "title": "I'll Be With You",
+      "songId": "b2c489183ce6eee59b8f",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "lIPQl8P18I99b90iD86OI1Qq0OI1OPDb",
+      "corroborated": true
+    },
+    {
+      "title": "The Ashes of Boreas",
+      "songId": "b17cd6d73c9f2a45a6ac",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "lO990qi9qq9II1boI10ObdbbolQ1Ii0i",
+      "corroborated": true
+    },
+    {
+      "title": "3y3s",
+      "songId": "7dd890393d7f96f17dae",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "loD8qPl09qqi0o1iqbbDOdllDblioDIl",
+      "corroborated": true
+    },
+    {
+      "title": "3y3s",
+      "songId": "7dd890393d7f96f17dae",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "loD8qPl09qqi0o1iqbbDOdllDblioDIl",
+      "corroborated": true
+    },
+    {
+      "title": "3y3s",
+      "songId": "7dd890393d7f96f17dae",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "loD8qPl09qqi0o1iqbbDOdllDblioDIl",
+      "corroborated": true
+    },
+    {
+      "title": "Amazing Bomberman",
+      "songId": "d3b963f26f9be9543ed9",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "lq6DqO1o99Q1OdbDPl9loO0P0O8d8loO",
+      "corroborated": true
+    },
+    {
+      "title": "Amazing Bomberman",
+      "songId": "d3b963f26f9be9543ed9",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "lq6DqO1o99Q1OdbDPl9loO0P0O8d8loO",
+      "corroborated": true
+    },
+    {
+      "title": "童話回廊",
+      "songId": "98a159e21f7145421e0a",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "lqqIbPboOl80QOioqb0bq6DoibdOQOlD",
+      "corroborated": true
+    },
+    {
+      "title": "童話回廊",
+      "songId": "98a159e21f7145421e0a",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "lqqIbPboOl80QOioqb0bq6DoibdOQOlD",
+      "corroborated": true
+    },
+    {
+      "title": "King of Tribe",
+      "songId": "5f5ec9a6f84dc5994ff5",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "O00OboQl9oOIodo69iiIq1o8bPoDdq9Q",
+      "corroborated": true
+    },
+    {
+      "title": "King of Tribe",
+      "songId": "5f5ec9a6f84dc5994ff5",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "O00OboQl9oOIodo69iiIq1o8bPoDdq9Q",
+      "corroborated": true
+    },
+    {
+      "title": "Be Happy Next 2 You",
+      "songId": "59b2ebba21168162bd37",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "O0DDiq9DQlI9iq861lOoo1d1DI8qqd6d",
+      "corroborated": true
+    },
+    {
+      "title": "Be Happy Next 2 You",
+      "songId": "59b2ebba21168162bd37",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "O0DDiq9DQlI9iq861lOoo1d1DI8qqd6d",
+      "corroborated": true
+    },
+    {
+      "title": "Daisycutter",
+      "songId": "9fe7bdf81115aa4c59d9",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "o1biqbO9i1IiObD0d1D8d8iqb6q86Qqi",
+      "corroborated": true
+    },
+    {
+      "title": "Daisycutter",
+      "songId": "9fe7bdf81115aa4c59d9",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "o1biqbO9i1IiObD0d1D8d8iqb6q86Qqi",
+      "corroborated": true
+    },
+    {
+      "title": "Daisycutter",
+      "songId": "9fe7bdf81115aa4c59d9",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "o1biqbO9i1IiObD0d1D8d8iqb6q86Qqi",
+      "corroborated": true
+    },
+    {
+      "title": "HIGHER",
+      "songId": "6445833f7c9d1ea75b17",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "O1blDPOQ8IQb00o0D89QIDIlo8b06liD",
+      "corroborated": true
+    },
+    {
+      "title": "In The Breeze",
+      "songId": "228c125b3e51bc29d2c9",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "o1dbD61Qi98O60liQQ91d8O16I86dqDd",
+      "corroborated": true
+    },
+    {
+      "title": "INSIDE YOUR HEART",
+      "songId": "a465c1f18ef37183bb53",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "O8qii6oiooPd8lbPqDo9QQioIoQQOoq0",
+      "corroborated": true
+    },
+    {
+      "title": "少女、摩天楼へ",
+      "songId": "c3c9f9d67770d7795dbe",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "o9iQ96669qo618i6DobbdD8I1lPiq8oQ",
+      "corroborated": true
+    },
+    {
+      "title": "少女、摩天楼へ",
+      "songId": "c3c9f9d67770d7795dbe",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "o9iQ96669qo618i6DobbdD8I1lPiq8oQ",
+      "corroborated": true
+    },
+    {
+      "title": "Saturday Night Love",
+      "songId": "e8b6b4e07a2b149a00f2",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "o9l8Id0D1lQdl1o9DDIPbO6q998lq8bd",
+      "corroborated": true
+    },
+    {
+      "title": "まにぃまにあ××",
+      "songId": "c813c549c259676e9ffa",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "ObiiQb81io69166olbOqODQOQO10DbQi",
+      "corroborated": true
+    },
+    {
+      "title": "まにぃまにあ××",
+      "songId": "c813c549c259676e9ffa",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "ObiiQb81io69166olbOqODQOQO10DbQi",
+      "corroborated": true
+    },
+    {
+      "title": "CUE CUE RESCUE",
+      "songId": "535df507bccceccc3cdc",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "od0idqqoq6lb9qIo9iOblo6D8q18DQDb",
+      "corroborated": true
+    },
+    {
+      "title": "CUE CUE RESCUE",
+      "songId": "535df507bccceccc3cdc",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "od0idqqoq6lb9qIo9iOblo6D8q18DQDb",
+      "corroborated": true
+    },
+    {
+      "title": "CUE CUE RESCUE",
+      "songId": "535df507bccceccc3cdc",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "od0idqqoq6lb9qIo9iOblo6D8q18DQDb",
+      "corroborated": true
+    },
+    {
+      "title": "UИKNØWNZ",
+      "songId": "a44993abca9a97703ec9",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Odbo96qo6o8PqDob6qD0oqI80diQ8PQd",
+      "corroborated": true
+    },
+    {
+      "title": "UИKNØWNZ",
+      "songId": "a44993abca9a97703ec9",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "Odbo96qo6o8PqDob6qD0oqI80diQ8PQd",
+      "corroborated": true
+    },
+    {
+      "title": "UИKNØWNZ",
+      "songId": "a44993abca9a97703ec9",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Odbo96qo6o8PqDob6qD0oqI80diQ8PQd",
+      "corroborated": true
+    },
+    {
+      "title": "Steps for Victory (U1 Heavy Metal Edition)",
+      "songId": "22c65b22db5bda1dce2c",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "odiQOiD9OIiI1IDPodQQIo9DDPoOI868",
+      "corroborated": true
+    },
+    {
+      "title": "Steps for Victory (U1 Heavy Metal Edition)",
+      "songId": "22c65b22db5bda1dce2c",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "odiQOiD9OIiI1IDPodQQIo9DDPoOI868",
+      "corroborated": true
+    },
+    {
+      "title": "Steps for Victory (U1 Heavy Metal Edition)",
+      "songId": "22c65b22db5bda1dce2c",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "odiQOiD9OIiI1IDPodQQIo9DDPoOI868",
+      "corroborated": true
+    },
+    {
+      "title": "No More Love",
+      "songId": "ecb475304e3fad0c0d60",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "odlOiO6di119680QOoOo8dO8IO0DliI9",
+      "corroborated": true
+    },
+    {
+      "title": "No More Love",
+      "songId": "ecb475304e3fad0c0d60",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "odlOiO6di119680QOoOo8dO8IO0DliI9",
+      "corroborated": true
+    },
+    {
+      "title": "アワデコノヨヲ",
+      "songId": "ccc68c5adb17cda84917",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "odO8PDbIO8DiIboi8Q9PP6d8Q9iiIlbl",
+      "corroborated": true
+    },
+    {
+      "title": "アワデコノヨヲ",
+      "songId": "ccc68c5adb17cda84917",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "odO8PDbIO8DiIboi8Q9PP6d8Q9iiIlbl",
+      "corroborated": true
+    },
+    {
+      "title": "Holic",
+      "songId": "457b5cff206ffca175fe",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "ODq019O9o1OPdq9PiPl0o8D8DQ8bid88",
+      "corroborated": true
+    },
+    {
+      "title": "アキネイション",
+      "songId": "0f043172ca6ddfe35ced",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "oDQb8b9Ii9960180IO989PqIqiP6dOoP",
+      "corroborated": true
+    },
+    {
+      "title": "アキネイション",
+      "songId": "0f043172ca6ddfe35ced",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "oDQb8b9Ii9960180IO989PqIqiP6dOoP",
+      "corroborated": true
+    },
+    {
+      "title": "THE SHINING POLARIS",
+      "songId": "312c82e73c0b273aa02e",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "ODQOP1dblD6q8d160Ioi0dIoQloI6oQO",
+      "corroborated": true
+    },
+    {
+      "title": "Collapse of the Sanctuary",
+      "songId": "9afe1e867b359d2c4bed",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "oIIPQQD09OqdOP8bb61biDOPI69OP8q8",
+      "corroborated": true
+    },
+    {
+      "title": "Collapse of the Sanctuary",
+      "songId": "9afe1e867b359d2c4bed",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "oIIPQQD09OqdOP8bb61biDOPI69OP8q8",
+      "corroborated": true
+    },
+    {
+      "title": "Timepiece phase Ⅱ",
+      "songId": "b8860276cb2b789a3a29",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "oIOq6lQQPoD1q11Qiq6dDI6l8DdoQ169",
+      "corroborated": true
+    },
+    {
+      "title": "Timepiece phase Ⅱ",
+      "songId": "b8860276cb2b789a3a29",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "oIOq6lQQPoD1q11Qiq6dDI6l8DdoQ169",
+      "corroborated": true
+    },
+    {
+      "title": "Timepiece phase Ⅱ",
+      "songId": "b8860276cb2b789a3a29",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "oIOq6lQQPoD1q11Qiq6dDI6l8DdoQ169",
+      "corroborated": true
+    },
+    {
+      "title": "Unreal",
+      "songId": "ad9ac242897f706ac3d2",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "olQl6Qoi0IbobI980q9Q0QIo9qlbq1PO",
+      "corroborated": true
+    },
+    {
+      "title": "BRAIN-HEART",
+      "songId": "6676c2927bcd135a5471",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "oo1P6l616OOdl0IqPPqobPI0Il81qqii",
+      "corroborated": true
+    },
+    {
+      "title": "BRAIN-HEART",
+      "songId": "6676c2927bcd135a5471",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "oo1P6l616OOdl0IqPPqobPI0Il81qqii",
+      "corroborated": true
+    },
+    {
+      "title": "漆黒のスペシャルプリンセスサンデー",
+      "songId": "8bc722b23cd595ece398",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "OoQoQIP06Doq1d88dDQQdlQ8i68Do9DO",
+      "corroborated": true
+    },
+    {
+      "title": "Bloody Tears(IIDX EDITION)",
+      "songId": "a525bde672d2192f5ff1",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "oQ0bqIQ8DdPlilO000DQloOo6Od8IdQ6",
+      "corroborated": true
+    },
+    {
+      "title": "HAPPY☆PARADISE☆GALAXY",
+      "songId": "0500817b6bb38655a74a",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Oq8ii8id8ob90q6OiDoIl9Q0lQDd9DIO",
+      "corroborated": true
+    },
+    {
+      "title": "HAPPY☆PARADISE☆GALAXY",
+      "songId": "0500817b6bb38655a74a",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "Oq8ii8id8ob90q6OiDoIl9Q0lQDd9DIO",
+      "corroborated": true
+    },
+    {
+      "title": "HAPPY☆PARADISE☆GALAXY",
+      "songId": "0500817b6bb38655a74a",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "Oq8ii8id8ob90q6OiDoIl9Q0lQDd9DIO",
+      "corroborated": true
+    },
+    {
+      "title": "eyesight",
+      "songId": "e992df9ee68d06dc852b",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "OQliD1io08dq96q9QO6dd1iq0dObl1QQ",
+      "corroborated": true
+    },
+    {
+      "title": "eyesight",
+      "songId": "e992df9ee68d06dc852b",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "OQliD1io08dq96q9QO6dd1iq0dObl1QQ",
+      "corroborated": true
+    },
+    {
+      "title": "Easy Peasy Squeezy",
+      "songId": "8a08aa691e2dc0c977ac",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "oqlQDOi6bdOl9DIIb1IdP909dIIOl8bb",
+      "corroborated": true
+    },
+    {
+      "title": "Easy Peasy Squeezy",
+      "songId": "8a08aa691e2dc0c977ac",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "oqlQDOi6bdOl9DIIb1IdP909dIIOl8bb",
+      "corroborated": true
+    },
+    {
+      "title": "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)",
+      "songId": "35c89757d307fcc4d509",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "oQP6D9PlDbDlPPPPPqd8QI61o1Q0PO81",
+      "corroborated": true
+    },
+    {
+      "title": "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)",
+      "songId": "35c89757d307fcc4d509",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "oQP6D9PlDbDlPPPPPqd8QI61o1Q0PO81",
+      "corroborated": true
+    },
+    {
+      "title": "なんてシュペール",
+      "songId": "a07142964473451fb0d5",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "oQq061q091Q16iOO9b8d9d0P9080qP6q",
+      "corroborated": true
+    },
+    {
+      "title": "なんてシュペール",
+      "songId": "a07142964473451fb0d5",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "oQq061q091Q16iOO9b8d9d0P9080qP6q",
+      "corroborated": true
+    },
+    {
+      "title": "BE LOVIN",
+      "songId": "602bbace57ef20583954",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "P0O81Dl9Oiiid8bdOi0oqbD8DqolObbP",
+      "corroborated": true
+    },
+    {
+      "title": "Four Leaves",
+      "songId": "955bd836fd8b49eb595e",
+      "difficulty": "DIFFICULT",
+      "level": 9,
+      "newSong": true,
+      "sourceId": "P1D0q8O1QblDOQP96QQolql9QII0i6Pb",
+      "corroborated": true
+    },
+    {
+      "title": "Four Leaves",
+      "songId": "955bd836fd8b49eb595e",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "P1D0q8O1QblDOQP96QQolql9QII0i6Pb",
+      "corroborated": true
+    },
+    {
+      "title": "Four Leaves",
+      "songId": "955bd836fd8b49eb595e",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "P1D0q8O1QblDOQP96QQolql9QII0i6Pb",
+      "corroborated": true
+    },
+    {
+      "title": "COLOR BURST",
+      "songId": "afbe981c87679c3027af",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "P600DiDIlPQ1Ql9DI8QlI6P8il1oOQd6",
+      "corroborated": true
+    },
+    {
+      "title": "COLOR BURST",
+      "songId": "afbe981c87679c3027af",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "P600DiDIlPQ1Ql9DI8QlI6P8il1oOQd6",
+      "corroborated": true
+    },
+    {
+      "title": "ちくたく2ちく2ぱ",
+      "songId": "9c5bea434471c8705fd6",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "P908I0O1PIodq1qOIO008bd16P0q8ql8",
+      "corroborated": true
+    },
+    {
+      "title": "ちくたく2ちく2ぱ",
+      "songId": "9c5bea434471c8705fd6",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "P908I0O1PIodq1qOIO008bd16P0q8ql8",
+      "corroborated": true
+    },
+    {
+      "title": "激アツ☆マジヤバ☆チアガール",
+      "songId": "2fd5c3c8c51f035458ff",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "Pd1d96Q91oiboqb86DdddD68dbq81Pdo",
+      "corroborated": true
+    },
+    {
+      "title": "AFRONOVA",
+      "songId": "8c09fb966a965e52da31",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "Pd99DQo0bD9D9oIbPIId18P6l8qlDQO6",
+      "corroborated": true
+    },
+    {
+      "title": "Dragon Blade",
+      "songId": "998bf51e50a84aeb32fb",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": false,
+      "sourceId": "PD9lP16dllbPqbdIO0Ii0I8D1I90QIIl",
+      "corroborated": true
+    },
+    {
+      "title": "Blizzard of Arrows",
+      "songId": "12371ed95282a5fa9cf6",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "PDbDl9dQQQiold81d9DQ6QQobQqb1OO8",
+      "corroborated": true
+    },
+    {
+      "title": "Blizzard of Arrows",
+      "songId": "12371ed95282a5fa9cf6",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "PDbDl9dQQQiold81d9DQ6QQobQqb1OO8",
+      "corroborated": true
+    },
+    {
+      "title": "Blizzard of Arrows",
+      "songId": "12371ed95282a5fa9cf6",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "PDbDl9dQQQiold81d9DQ6QQobQqb1OO8",
+      "corroborated": true
+    },
+    {
+      "title": "疾風迅雷",
+      "songId": "e7b37fa617c0714946bf",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "PdD1dlq1q00q8o9Il6IIqi61Il9DIo61",
+      "corroborated": true
+    },
+    {
+      "title": "疾風迅雷",
+      "songId": "e7b37fa617c0714946bf",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "PdD1dlq1q00q8o9Il6IIqi61Il9DIo61",
+      "corroborated": true
+    },
+    {
+      "title": "疾風迅雷",
+      "songId": "e7b37fa617c0714946bf",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "PdD1dlq1q00q8o9Il6IIqi61Il9DIo61",
+      "corroborated": true
+    },
+    {
+      "title": "GO!",
+      "songId": "8c7ad1d60278dfc3f00e",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Pdl6bi6dOb1O6bo9Qibb018odPQ8D11q",
+      "corroborated": true
+    },
+    {
+      "title": "GO!",
+      "songId": "8c7ad1d60278dfc3f00e",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "Pdl6bi6dOb1O6bo9Qibb018odPQ8D11q",
+      "corroborated": true
+    },
+    {
+      "title": "DIAVOLO",
+      "songId": "574620479e4ddcabd9ab",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Pdlib1o06DD6oIbdIdIoIqQqO8P896do",
+      "corroborated": true
+    },
+    {
+      "title": "DIAVOLO",
+      "songId": "574620479e4ddcabd9ab",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "Pdlib1o06DD6oIbdIdIoIqQqO8P896do",
+      "corroborated": true
+    },
+    {
+      "title": "DIAVOLO",
+      "songId": "574620479e4ddcabd9ab",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Pdlib1o06DD6oIbdIdIoIqQqO8P896do",
+      "corroborated": true
+    },
+    {
+      "title": "僕の気持ちを描く",
+      "songId": "f4b30a5014e06209a056",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "PDQl91OPbdo86qi0919Do6DOqQl80l8Q",
+      "corroborated": true
+    },
+    {
+      "title": "僕の気持ちを描く",
+      "songId": "f4b30a5014e06209a056",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "PDQl91OPbdo86qi0919Do6DOqQl80l8Q",
+      "corroborated": true
+    },
+    {
+      "title": "Lisa-RICCIA",
+      "songId": "1ff872aa6dc52d1bb745",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Pi8Qq9bqil106Il6b0oo998IQbPQb11Q",
+      "corroborated": true
+    },
+    {
+      "title": "Lisa-RICCIA",
+      "songId": "1ff872aa6dc52d1bb745",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "Pi8Qq9bqil106Il6b0oo998IQbPQb11Q",
+      "corroborated": true
+    },
+    {
+      "title": "Lisa-RICCIA",
+      "songId": "1ff872aa6dc52d1bb745",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Pi8Qq9bqil106Il6b0oo998IQbPQb11Q",
+      "corroborated": true
+    },
+    {
+      "title": "はるかぜリスタート！",
+      "songId": "4b384ef6bbcf18acff09",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "PiIdO0odOb1bQdPQD0QqdlP06IQiodQ0",
+      "corroborated": true
+    },
+    {
+      "title": "はるかぜリスタート！",
+      "songId": "4b384ef6bbcf18acff09",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "PiIdO0odOb1bQdPQD0QqdlP06IQiodQ0",
+      "corroborated": true
+    },
+    {
+      "title": "ILL-STARRED Diver",
+      "songId": "778e7683b9a8b345acb6",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "Pio09lb6i96DQloDIdidPol8obPil6b0",
+      "corroborated": true
+    },
+    {
+      "title": "ILL-STARRED Diver",
+      "songId": "778e7683b9a8b345acb6",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "Pio09lb6i96DQloDIdidPol8obPil6b0",
+      "corroborated": true
+    },
+    {
+      "title": "ILL-STARRED Diver",
+      "songId": "778e7683b9a8b345acb6",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "Pio09lb6i96DQloDIdidPol8obPil6b0",
+      "corroborated": true
+    },
+    {
+      "title": "Florence",
+      "songId": "b48b65bb122d478d76a3",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "PIPdidPO68916i10dO8lPoI9Q9blPbID",
+      "corroborated": true
+    },
+    {
+      "title": "Florence",
+      "songId": "b48b65bb122d478d76a3",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "PIPdidPO68916i10dO8lPoI9Q9blPbID",
+      "corroborated": true
+    },
+    {
+      "title": "FIRE",
+      "songId": "f27f17e3f0632792bbe2",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "PlqI9Q1I6qdqb0IolOl1qP0bOQP0ibPP",
+      "corroborated": true
+    },
+    {
+      "title": "水槽のクジラ",
+      "songId": "93680c099bad0eb87be9",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "Po8qD6i6io866qdQ00QbbO0i9I1qIO0O",
+      "corroborated": true
+    },
+    {
+      "title": "水槽のクジラ",
+      "songId": "93680c099bad0eb87be9",
+      "difficulty": "EXPERT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Po8qD6i6io866qdQ00QbbO0i9I1qIO0O",
+      "corroborated": true
+    },
+    {
+      "title": "7 Colors",
+      "songId": "22c9aa97b147e343f817",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "Pqdb6bI66o9896lDbDq1Pi1Dl9QqO6Pd",
+      "corroborated": true
+    },
+    {
+      "title": "7 Colors",
+      "songId": "22c9aa97b147e343f817",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Pqdb6bI66o9896lDbDq1Pi1Dl9QqO6Pd",
+      "corroborated": true
+    },
+    {
+      "title": "7 Colors",
+      "songId": "22c9aa97b147e343f817",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "Pqdb6bI66o9896lDbDq1Pi1Dl9QqO6Pd",
+      "corroborated": true
+    },
+    {
+      "title": "Votum stellarum -forest #25 DDR RMX-",
+      "songId": "2fd350487038bedbbbda",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "PqPPDibPdD8qd88D0d01dqo6918b0POD",
+      "corroborated": true
+    },
+    {
+      "title": "和風インザ洋風",
+      "songId": "886a23a894dc1402cf39",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "PQq8l8DDD6lP8bbQlid9Q1iO18IQqo1b",
+      "corroborated": true
+    },
+    {
+      "title": "和風インザ洋風",
+      "songId": "886a23a894dc1402cf39",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "PQq8l8DDD6lP8bbQlid9Q1iO18IQqo1b",
+      "corroborated": true
+    },
+    {
+      "title": "和風インザ洋風",
+      "songId": "886a23a894dc1402cf39",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "PQq8l8DDD6lP8bbQlid9Q1iO18IQqo1b",
+      "corroborated": true
+    },
+    {
+      "title": "天弓ノ舞",
+      "songId": "fe60d37fecbf549d69fb",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "Q098DQOP0b6q69lioP6lDoDP0o0066i8",
+      "corroborated": true
+    },
+    {
+      "title": "天弓ノ舞",
+      "songId": "fe60d37fecbf549d69fb",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Q098DQOP0b6q69lioP6lDoDP0o0066i8",
+      "corroborated": true
+    },
+    {
+      "title": "断罪のミメシス",
+      "songId": "871314827358bb314b8a",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Q0d16D8DDo1P8i086QOQI90i0d1oD9l8",
+      "corroborated": true
+    },
+    {
+      "title": "断罪のミメシス",
+      "songId": "871314827358bb314b8a",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "Q0d16D8DDo1P8i086QOQI90i0d1oD9l8",
+      "corroborated": true
+    },
+    {
+      "title": "Abyss",
+      "songId": "b7ca5de6b407cd955e50",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": false,
+      "sourceId": "Q0qQO0P8818lIoo0boO66O0qd09dIlO8",
+      "corroborated": true
+    },
+    {
+      "title": "魄",
+      "songId": "40c06fedfb3ffe8501ee",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "q1bb1QI8d08iq9OdIl9PO0ioDi6IQ9oD",
+      "corroborated": true
+    },
+    {
+      "title": "魄",
+      "songId": "40c06fedfb3ffe8501ee",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "q1bb1QI8d08iq9OdIl9PO0ioDi6IQ9oD",
+      "corroborated": true
+    },
+    {
+      "title": "魄",
+      "songId": "40c06fedfb3ffe8501ee",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "q1bb1QI8d08iq9OdIl9PO0ioDi6IQ9oD",
+      "corroborated": true
+    },
+    {
+      "title": "クリムゾンゲイト",
+      "songId": "57b038e467f324949f0b",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "q6iD8idqo69qIPl00IQidoq1o1o1d1b9",
+      "corroborated": true
+    },
+    {
+      "title": "RUINA",
+      "songId": "3a084d2f964ae45fe21e",
+      "difficulty": "DIFFICULT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "Q6il000Q11liO16qIDi0i0IO6id6qibP",
+      "corroborated": true
+    },
+    {
+      "title": "RUINA",
+      "songId": "3a084d2f964ae45fe21e",
+      "difficulty": "EXPERT",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Q6il000Q11liO16qIDi0i0IO6id6qibP",
+      "corroborated": true
+    },
+    {
+      "title": "fixer",
+      "songId": "7e308a34ce3932ebbce1",
+      "difficulty": "DIFFICULT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "q6l9OQ91o1PDO9qiPl1iiPO6OOPdI886",
+      "corroborated": true
+    },
+    {
+      "title": "fixer",
+      "songId": "7e308a34ce3932ebbce1",
+      "difficulty": "EXPERT",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "q6l9OQ91o1PDO9qiPl1iiPO6OOPdI886",
+      "corroborated": true
+    },
+    {
+      "title": "Forever Sunshine",
+      "songId": "4d889c03c49c5195ddca",
+      "difficulty": "CHALLENGE",
+      "level": 12,
+      "newSong": false,
+      "sourceId": "Q8Ioq8POo69ol8bPiOPQPq61oqoPo0DO",
+      "corroborated": true
+    },
+    {
+      "title": "ドーパミン (STARDOM Remix)",
+      "songId": "3e3e2f90d8b266b02084",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "Q8PqoP91qqI6I909IdQ098091q9q0i19",
+      "corroborated": true
+    },
+    {
+      "title": "ドーパミン (STARDOM Remix)",
+      "songId": "3e3e2f90d8b266b02084",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "Q8PqoP91qqI6I909IdQ098091q9q0i19",
+      "corroborated": true
+    },
+    {
+      "title": "ドーパミン (STARDOM Remix)",
+      "songId": "3e3e2f90d8b266b02084",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "Q8PqoP91qqI6I909IdQ098091q9q0i19",
+      "corroborated": true
+    },
+    {
+      "title": "混乱少女♥そふらんちゃん!!",
+      "songId": "d5838028c150a2431f95",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Q9iiOo800blDqO0DDDPI1PIbl1lIidI1",
+      "corroborated": true
+    },
+    {
+      "title": "混乱少女♥そふらんちゃん!!",
+      "songId": "d5838028c150a2431f95",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "Q9iiOo800blDqO0DDDPI1PIbl1lIidI1",
+      "corroborated": true
+    },
+    {
+      "title": "混乱少女♥そふらんちゃん!!",
+      "songId": "d5838028c150a2431f95",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Q9iiOo800blDqO0DDDPI1PIbl1lIidI1",
+      "corroborated": true
+    },
+    {
+      "title": "謎解き☆クイーン！",
+      "songId": "84928c9dc7e6c1c3f2b5",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "Qb006IP91qidb1PIPqilliP90qOqDD9d",
+      "corroborated": true
+    },
+    {
+      "title": "謎解き☆クイーン！",
+      "songId": "84928c9dc7e6c1c3f2b5",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "Qb006IP91qidb1PIPqilliP90qOqDD9d",
+      "corroborated": true
+    },
+    {
+      "title": "Bloody Iron Maiden",
+      "songId": "4617c48b95a762b27a86",
+      "difficulty": "DIFFICULT",
+      "level": 12,
+      "newSong": true,
+      "sourceId": "qb9Q8d8q6q8DQ61iDl1DP8iQO9oIqidI",
+      "corroborated": true
+    },
+    {
+      "title": "Bloody Iron Maiden",
+      "songId": "4617c48b95a762b27a86",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "qb9Q8d8q6q8DQ61iDl1DP8iQO9oIqidI",
+      "corroborated": true
+    },
+    {
+      "title": "rainbow flyer",
+      "songId": "b7cbf5f873f0d58bc0b2",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": false,
+      "sourceId": "qbDidIlodPP6PqI00D18P6dDbioIdDPD",
+      "corroborated": true
+    },
+    {
+      "title": "Princess K",
+      "songId": "bf133c932360c3c4984e",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "qbl06811iP8IdDDOqiIq1P0lqiPdDQqP",
+      "corroborated": true
+    },
+    {
+      "title": "Princess K",
+      "songId": "bf133c932360c3c4984e",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "qbl06811iP8IdDDOqiIq1P0lqiPdDQqP",
+      "corroborated": true
+    },
+    {
+      "title": "La Bamba",
+      "songId": "604ca09991a268d2ec30",
+      "difficulty": "CHALLENGE",
+      "level": 13,
+      "newSong": false,
+      "sourceId": "qbQ9I1bI6q91Q18DlDlI1Qdi8q6Qlo91",
+      "corroborated": true
+    },
+    {
+      "title": "霖が哭く",
+      "songId": "ade7eeba1ad424812c02",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "qdoPQQldIQo6QDdQllbIP91iiilio1O1",
+      "corroborated": true
+    },
+    {
+      "title": "霖が哭く",
+      "songId": "ade7eeba1ad424812c02",
+      "difficulty": "EXPERT",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "qdoPQQldIQo6QDdQllbIP91iiilio1O1",
+      "corroborated": true
+    },
+    {
+      "title": "雪上断火",
+      "songId": "eb70a33ee8978a7e497c",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "qib6O1d6010d8Iql8IQ0q8diqOP6dIqb",
+      "corroborated": true
+    },
+    {
+      "title": "雪上断火",
+      "songId": "eb70a33ee8978a7e497c",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "qib6O1d6010d8Iql8IQ0q8diqOP6dIqb",
+      "corroborated": true
+    },
+    {
+      "title": "雪上断火",
+      "songId": "eb70a33ee8978a7e497c",
+      "difficulty": "CHALLENGE",
+      "level": 16,
+      "newSong": true,
+      "sourceId": "qib6O1d6010d8Iql8IQ0q8diqOP6dIqb",
+      "corroborated": true
+    },
+    {
+      "title": "Fly Like You",
+      "songId": "373f1b7a2edb971c7a78",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "Qib986b6oDqPl8IQiOoDOQ06IlbD68bl",
+      "corroborated": true
+    },
+    {
+      "title": "Fly Like You",
+      "songId": "373f1b7a2edb971c7a78",
+      "difficulty": "EXPERT",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "Qib986b6oDqPl8IQiOoDOQ06IlbD68bl",
+      "corroborated": true
+    },
+    {
+      "title": "Fly Like You",
+      "songId": "373f1b7a2edb971c7a78",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": true,
+      "sourceId": "Qib986b6oDqPl8IQiOoDOQ06IlbD68bl",
+      "corroborated": true
+    },
+    {
+      "title": "カゲロウ",
+      "songId": "dea0eb47c9932ef03dd7",
+      "difficulty": "CHALLENGE",
+      "level": 14,
+      "newSong": false,
+      "sourceId": "ql1Q8P100IIlbl0Pdi08I8qD900idqQq",
+      "corroborated": true
+    },
+    {
+      "title": "Remain",
+      "songId": "6f4b99303e5bd37b378b",
+      "difficulty": "CHALLENGE",
+      "level": 18,
+      "newSong": false,
+      "sourceId": "qo6l9dbb8D0iDQI1odo0Qb9O1ibDdoIb",
+      "corroborated": true
+    },
+    {
+      "title": "Concertino in Blue",
+      "songId": "2902423f57fc987c5db2",
+      "difficulty": "CHALLENGE",
+      "level": 17,
+      "newSong": false,
+      "sourceId": "qoD0olPq6qbOi6bbPllOib0q1i16iI1O",
+      "corroborated": true
+    },
+    {
+      "title": "Roche Limit",
+      "songId": "3b0a9f5e3bef309212c9",
+      "difficulty": "DIFFICULT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "QoD9DQ8QQ11ib0Idob9dbIQqbq0Q8Q6i",
+      "corroborated": true
+    },
+    {
+      "title": "Roche Limit",
+      "songId": "3b0a9f5e3bef309212c9",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "QoD9DQ8QQ11ib0Idob9dbIQqbq0Q8Q6i",
+      "corroborated": true
+    },
+    {
+      "title": "Roche Limit",
+      "songId": "3b0a9f5e3bef309212c9",
+      "difficulty": "CHALLENGE",
+      "level": 15,
+      "newSong": true,
+      "sourceId": "QoD9DQ8QQ11ib0Idob9dbIQqbq0Q8Q6i",
+      "corroborated": true
+    },
+    {
+      "title": "Lichtsäule",
+      "songId": "3d462a435a925c09055f",
+      "difficulty": "DIFFICULT",
+      "level": 13,
+      "newSong": true,
+      "sourceId": "qP8qb6lIqPIlO696q8881qoIqi1O6ldI",
+      "corroborated": true
+    },
+    {
+      "title": "Lichtsäule",
+      "songId": "3d462a435a925c09055f",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "qP8qb6lIqPIlO696q8881qoIqi1O6ldI",
+      "corroborated": true
+    },
+    {
+      "title": "レシピのリドル",
+      "songId": "9552f668f860f70773ce",
+      "difficulty": "DIFFICULT",
+      "level": 10,
+      "newSong": true,
+      "sourceId": "QPIbbqb0OIq8dQ8IbiD1O1bI1PPOb1IQ",
+      "corroborated": true
+    },
+    {
+      "title": "レシピのリドル",
+      "songId": "9552f668f860f70773ce",
+      "difficulty": "EXPERT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "QPIbbqb0OIq8dQ8IbiD1O1bI1PPOb1IQ",
+      "corroborated": true
+    },
+    {
+      "title": "Fragarach",
+      "songId": "05e28a80e2a5a2637eff",
+      "difficulty": "DIFFICULT",
+      "level": 14,
+      "newSong": true,
+      "sourceId": "qQ1DII6bDO61o81O86OibP6Pi1q1O0QQ",
+      "corroborated": true
+    },
+    {
+      "title": "Fragarach",
+      "songId": "05e28a80e2a5a2637eff",
+      "difficulty": "EXPERT",
+      "level": 17,
+      "newSong": true,
+      "sourceId": "qQ1DII6bDO61o81O86OibP6Pi1q1O0QQ",
+      "corroborated": true
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "songId": "a45169a107556c418075",
+      "difficulty": "DIFFICULT",
+      "level": 8,
+      "newSong": true,
+      "sourceId": "qQb09PdOD61ioPPdD9DbIil9iQQii1q1",
+      "corroborated": true
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "songId": "a45169a107556c418075",
+      "difficulty": "EXPERT",
+      "level": 11,
+      "newSong": true,
+      "sourceId": "qQb09PdOD61ioPPdD9DbIil9iQQii1q1",
+      "corroborated": true
+    }
+  ],
+  "newSongs": [
+    {
+      "title": "Ambivalent Vermilia",
+      "id": "b2c82c1252a544b30637",
+      "artist": "",
+      "sourceId": "00qIiO99Q18biD8bQ6d1QOooDP00O1Od",
+      "category": "GOLD",
+      "corroborated": false
+    },
+    {
+      "title": "quaver♪",
+      "id": "da734f7bf4a164685b3a",
+      "artist": "Risk Junk",
+      "sourceId": "09P10l1q98b1DiDQdlIii0bld111O86D",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Red. by Full Metal Jacket",
+      "id": "9b679463d031e99fbce4",
+      "artist": "DJ Mass MAD Izm*",
+      "sourceId": "0b8lD690qQO1bDOib1IqiO0OO169o9IQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Roll the Dice",
+      "id": "75371438ef7fb050473a",
+      "artist": "lapix",
+      "sourceId": "0i8idqoQ8lOIi6qOPO0DOOi8OlPq10D8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "SILKY BRAVE",
+      "id": "b474d693e21200745636",
+      "artist": "DJ Shimamura",
+      "sourceId": "0iO086qDbPOd8DlPPqP8q0DDi6O8iP9I",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "TURNING DOWN",
+      "id": "4c7edeb9d7046cb27d93",
+      "artist": "U-ske feat. 石橋桃",
+      "sourceId": "0l8dbQDQ6I01Pd1DO80q0Do1o81ldqPQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "TYCOON",
+      "id": "7e2903a67f2e61d4848e",
+      "artist": "SOUND HOLIC feat. Nana Takahashi",
+      "sourceId": "0ODl10P0O10D1OQID91QiPlQd988bio8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Bye or not",
+      "id": "efc3875f96a38b187ea8",
+      "artist": "PSYQUI feat. Mikanzil",
+      "sourceId": "0P6PI0QP9b91QOlIibodd9IO90PbQO6I",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Chocolate Planet",
+      "id": "0467675ee2cf1a5aef58",
+      "artist": "Freezer feat.妃苺",
+      "sourceId": "0Pd8il0PQd80i1O01i1D9960IdqoQo01",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Funky Flux Fusion",
+      "id": "0532b34d5299e82b0145",
+      "artist": "yuichi NAGAO",
+      "sourceId": "0QlIdbiPq11Q0IPoQDI60Dq8Ib66o988",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "ZENDEGI DANCE",
+      "id": "7c37df5deb01c122f089",
+      "artist": "ARM × BEMANI Sound Team \"U1 overground\"",
+      "sourceId": "0QOP6QqdlobOo9i8O6dOl8IdQl89P6PP",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Can't Stop Running!!",
+      "id": "6599256104d65d7047ef",
+      "artist": "seatrus",
+      "sourceId": "101l06dOi16IlQI0qDqo6qD9DOP999Dd",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Bring Me Back",
+      "id": "52549c5f85b2819bf219",
+      "artist": "9W3R7Y",
+      "sourceId": "180DD1dl8dq1lOioPqPOo6b6d9QbbbdD",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "極地大衝撃",
+      "id": "86afdfbaa60b69c4f8f8",
+      "artist": "Kolaa",
+      "sourceId": "1bo1qQDPidPPOlD16Ii9PoQOlQ996qb8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Gravity Collapse",
+      "id": "92021a9101cf990b5cc8",
+      "artist": "X-END",
+      "sourceId": "1iPqdbQiqoi9l8D6Q106i01DbOO8191b",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "電幻圏",
+      "id": "eab086f616425dc20d46",
+      "artist": "Lamanya feat.ナースロボ＿タイプT",
+      "sourceId": "1l0i6b10D8dbD60QIbiqlidQo9d69qII",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Touch My Body",
+      "id": "050d6ad3410e6059969e",
+      "artist": "anubasu-anubasu",
+      "sourceId": "1loi6P66IOoPqD9I68odili18P8bPb9P",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "BIGソムタム",
+      "id": "cc7b312107b77a551afd",
+      "artist": "AJURIKA",
+      "sourceId": "66P0q8Ibddl9q669b6bD6Ood9IOQbDPI",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "COSMIC V3LOCITY",
+      "id": "3877715111bdcabba042",
+      "artist": "BEMANI Sound Team \"Coyaan & KE!JU & ZAQUVA\"",
+      "sourceId": "68oQQ8lO1qbi0qI8lbO60bP1098qOD88",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Ignis†Iræ",
+      "id": "53e09d5943321abcda51",
+      "artist": "BEMANI Sound Team \"神\"",
+      "sourceId": "690bOP9iq6OboDDIbldbQD9PPill6IPb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Thunderstorm",
+      "id": "f3eb5592832bf9029f8a",
+      "artist": "nagomu tamaki",
+      "sourceId": "6lD9PQo88OI0PQ6db0I1l90lbQOP11O0",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Bad Maniacs",
+      "id": "90c75b5e6e7351091f56",
+      "artist": "kors k as teranoid",
+      "sourceId": "6O9O0ooOb8O8Q6D0ldqi1O8o6891Iq86",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Dual Bladez",
+      "id": "f8bd88e2960f38ba6385",
+      "artist": "おもしろ三国志",
+      "sourceId": "6od8bQb9i8li018bQoo8q1lddIQiqiql",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Eira",
+      "id": "89674d46e4bc6e967d4f",
+      "artist": "DJ TOTTO",
+      "sourceId": "6PoillDiqb0Oo9qOiIDOb1qQQIbPqDoi",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Amabie",
+      "id": "d3963b04241246dd266b",
+      "artist": "BEMANI Sound Team \"Coyaan\"",
+      "sourceId": "86IOiO9PlqoQoPD1I811bb6PI80OQ601",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "蛇神",
+      "id": "2d60916be6fd4fa22fc2",
+      "artist": "Zektbach",
+      "sourceId": "88qq1I89IQ8P9PdqbbdD0ood8oi9d68I",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "miserable life and worthless thoughts",
+      "id": "d1140681d805918bc863",
+      "artist": "めめめ",
+      "sourceId": "8bbqoo1OQdId00Oi60d8qoldb9iPb0P6",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "月光乱舞",
+      "id": "8dde078379f9f6304864",
+      "artist": "P*Light",
+      "sourceId": "8D0OOb0bi90oi1Io9iIqqiI9110ll8I1",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Smintheus",
+      "id": "b5652d45765d17b1459f",
+      "artist": "TAN1CHU",
+      "sourceId": "8odoOQO89P8dq6iOlqddiDbd6ilQ19PP",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "ミカヅキ:コネクト",
+      "id": "67ca7d3b81b3d4c7d400",
+      "artist": "かゆき",
+      "sourceId": "8PIO18IQqIoODlD8866Dd0I0OD8lb9ol",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "RIZING-GAMERS.",
+      "id": "080e8f529f82f466e621",
+      "artist": "BlackY",
+      "sourceId": "8Pl66oObI8diD6b9li0o8bPlIO0iO6ib",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "fluctus",
+      "id": "b98932451245233cc5bd",
+      "artist": "Ashrount",
+      "sourceId": "8qIbQqbIDDPPi10Io0QdQ8Ilod11qQdl",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Footnotes on BPM",
+      "id": "31a3a20a6c7afc6e9ec7",
+      "artist": "KirK+Tabi",
+      "sourceId": "8QlOdbOPq189DDq0dIO0b6bDl1i1dO8O",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "HYPER OVERR DANCEFLOORRR",
+      "id": "780e2cb126814d09445f",
+      "artist": "Tanchiky",
+      "sourceId": "90DO081odOdPDblDOqQi1O68Iq988obq",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Hit Show Heroes",
+      "id": "7039c258bd7bfab66285",
+      "artist": "TAN1CHU",
+      "sourceId": "999ddlbi9lDdQ9di1iIodO9lP0IQDoq8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Komainu Adventure!",
+      "id": "4c74c142340c6d79c756",
+      "artist": "BEMANI Sound Team \"Coyaan & KE!JU\"",
+      "sourceId": "9ddIP1i0O6l8oO9iI9Ii1Q1o800boQ0D",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "STOIC HYPOTHESIS",
+      "id": "6649c629a64956ff973f",
+      "artist": "BEMANI Sound Team \"Expander\"",
+      "sourceId": "9DIIo619qoDqIOb1091b816dbl0IlllD",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "コメット⇒スケイター",
+      "id": "1b72bcf94649bcec0276",
+      "artist": "U-ske feat.棗いつき",
+      "sourceId": "9ioI0IQ16OPb1Q0q8Oqdd6D9dPqDb618",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "量子の海のリントヴルム (STARDOM Remix)",
+      "id": "da5c7b7155604582e1fb",
+      "artist": "かめりあ",
+      "sourceId": "9PO0qPdi1OQo68Qb09qdIOo6008QoIPq",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Fizzing Steps",
+      "id": "be86f073dfed61c5d651",
+      "artist": "Reku Mochizuki",
+      "sourceId": "b6l0o09QQ0oIPql18I9QlQq0b6lQoldl",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "旅人リラン",
+      "id": "4919e6d86045e034bb9f",
+      "artist": "XOGO BRYKK",
+      "sourceId": "b8QDI09il61i0qlO9IibPQPiqQOoi6iQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "罪と罰",
+      "id": "ee2a873624087d76b0b5",
+      "artist": "Xceon feat. Mayumi Morinaga",
+      "sourceId": "b9iI8O6bd0bq0I1OoooQ9i9iddidODbO",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Astra Blaze",
+      "id": "ea10c9eae56befc66252",
+      "artist": "MK",
+      "sourceId": "b9Qbd61bPOPiDIPdIO9oqqo9D1Q6qdoQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "MonstaFesta",
+      "id": "dcdc0c8840cd0af07970",
+      "artist": "アカツキ チョータ",
+      "sourceId": "bli9QPODl80dblbbibo6dDDi6QII0l81",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "HORIZON BEATZ",
+      "id": "c755a54b00dd42ac096c",
+      "artist": "SOUND HOLIC feat. Nana Takahashi",
+      "sourceId": "bOOIQqdDllioii8Ill98dIQbbloQ8Do1",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Beyond The Earth",
+      "id": "bf3efbc7b7ee87fdb7ff",
+      "artist": "猫叉Master",
+      "sourceId": "bP61iObqb9Oo1IOQOdlQ0idilOII9O66",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "SCREW // owo // SCREW",
+      "id": "bfc2d3af58753b25c4d3",
+      "artist": "かめりあ",
+      "sourceId": "D0dPPodlDQO9lQblI6PP1OIIQPO61O1D",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "朱と碧のランページ",
+      "id": "26bad8f5dc8d82af23d7",
+      "artist": "NU-KO",
+      "sourceId": "d6Doi9oi600lP9lI9iiO8q68li8iOO8D",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Burstix Comet",
+      "id": "b530400e8525436a1e7a",
+      "artist": "Ninja Never DieS!",
+      "sourceId": "d88qo6I08PI8lDiiPoo0o8lPdqQDiq01",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "QuoN",
+      "id": "8922451072b5be49309b",
+      "artist": "Power Of Nature",
+      "sourceId": "d8l6ob1IPiQOlPI8i88oQqO10Ql6ibl6",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Love You",
+      "id": "5e812cd16e41eefd88aa",
+      "artist": "BEMANI Sound Team \"KE!JU\"",
+      "sourceId": "D8o868di9DidPo98ibOdqbi98Ii869Qb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Meteor",
+      "id": "115fffd23ff5901a7552",
+      "artist": "BEMANI Sound Team \"MAX MAXIMIZER\"",
+      "sourceId": "d9iqoill801Q891P1OiPDIbDlQ9qoQ1b",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "恋歌疾風！かるたクイーンいろは",
+      "id": "43c3ae2adf944077fd45",
+      "artist": "ねこまんまチーム！",
+      "sourceId": "db6q6DlPd68bbQOOQ99OI1I9QD8PqDo8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Blφφdy Cφncertφ",
+      "id": "da6013aebfbbc7b01be6",
+      "artist": "OSTER project & RoughSketch",
+      "sourceId": "dbIQ6o1lDi1OqqdO60q0lqqD9qPD0qlP",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "鳳 (Five Flares Mix)",
+      "id": "32ebf045baaf2c11d586",
+      "artist": "Remixed by BEMANI Sound Team \"Coyaan + U1\"",
+      "sourceId": "Dbl69I9bO9qo6iidPbPPPD11boQPqi8q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "愛氏AIされ",
+      "id": "ce53de58d435ed2adb16",
+      "artist": "deli.+駄々子",
+      "sourceId": "dD6DOI1lDI8o90iO006Dl96D1doDdQ69",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Nostalgic Blood of the Strife",
+      "id": "7b974214ce44559f6c4b",
+      "artist": "Laur",
+      "sourceId": "dddOii88ql08800lqobbDODIQOP999DI",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "EYE OF THE HEAVEN",
+      "id": "f30f1b57a8f4a2033a78",
+      "artist": "BEMANI Sound Team \"U1-ASAMi\"",
+      "sourceId": "dDIbQIPo0PIoIP6lbbl8q9Q1Q8ib9P18",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "迷宮のロンド",
+      "id": "7210d3f1f6e1a088299b",
+      "artist": "BEMANI Sound Team \"Captain KING\"",
+      "sourceId": "DDlbDddPO8liioQ196P0I9090bDDPQ6Q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Any%",
+      "id": "181b15f91ca3d4702855",
+      "artist": "めめめ",
+      "sourceId": "DDQ9q1dd0lob0iOo9iql1boPoIq8ioDo",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "羽根亡キ少女唄",
+      "id": "b2bea4d1da6ef1223ee5",
+      "artist": "純情ディスコード",
+      "sourceId": "dI0q9QdPOI1lq6888qI980dqll6dbqib",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "V!LLA!N",
+      "id": "cbb960a8b9521fda72e1",
+      "artist": "Kaname",
+      "sourceId": "diO61POQ9odliiqoq0ii0Q6OOid9oOIi",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "逆月",
+      "id": "37104a3d0b35611bcb27",
+      "artist": "BEMANI Sound Team \"HuΣeR\" feat.Fernweh",
+      "sourceId": "Dl89dQdOQooI0i0DoPQd68db6di86PD8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "New Millennium Pt.2",
+      "id": "265776b12cd38d6f6ab8",
+      "artist": "Remixed by Zekk",
+      "sourceId": "dlbqIDqQiolDo6qdoQli6OO9lQolP6Iq",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "S.O.D",
+      "id": "44f9e68cdcbdc5271fcf",
+      "artist": "iso:R",
+      "sourceId": "Dld100o9l88o6qqId6O96IbiIQiOdbQD",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Ganymede -re:born-",
+      "id": "5581770ee1109ca17b6d",
+      "artist": "BEMANI Sound Team \"玄武 feat.二代目朱雀\"",
+      "sourceId": "Dlo0PPibIoQbOI8I61O1DobQOIiDb11b",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Harmonia",
+      "id": "597b35de134845cbd976",
+      "artist": "ATSUMI UEDA",
+      "sourceId": "DlQ190o8bqO8oOQ0Iqloql6lIlPP9qO9",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "ハイテックトキオ",
+      "id": "1e4e66b56421505aa122",
+      "artist": "lapix ∞ BEMANI Sound Team \"Sota Fujimori\"",
+      "sourceId": "DOd9bIqddQ91qbQI1bdbbDi1lqPObo8l",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "OROCHI STRIKE",
+      "id": "83c74d2517ec4cccec26",
+      "artist": "Hommarju & BEMANI Sound Team \"兎々\"",
+      "sourceId": "dOilPdQDPQP0l8Po6Pli96i010d88dii",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "HyperNOAH",
+      "id": "1b00af58f1b4e95563a5",
+      "artist": "SK MUSIC",
+      "sourceId": "DoOoDio1q81OQdoOO0b6bPQPOoq6I0Qi",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "ポルカドット・ダンス・ガール",
+      "id": "2fbd5c7cd77f2c026906",
+      "artist": "KE!JU",
+      "sourceId": "Dq6II6Q81DQIiP6l69b1id6D0QQO9Dld",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "REINCARNATION",
+      "id": "5f7cbbe40982121a9470",
+      "artist": "P*Light",
+      "sourceId": "DqIO9PI98blQlid88dQiO0ldoiobOqdb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "BILLION MONEY BAZOOKA",
+      "id": "8c5dd525a1d8da250d5b",
+      "artist": "BlackY",
+      "sourceId": "DqO9bl89lll1009obqQD9iiIIo9oQ16Q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Saiph",
+      "id": "573a1aa4609931e11ec1",
+      "artist": "BEMANI Sound Team \"Yvya\"",
+      "sourceId": "i09oqb0o1boQdi1blIb1D08PlDI1o6lo",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "neu (STARDOM Remix)",
+      "id": "11e5ce51868ae5fb01f7",
+      "artist": "少年ラジオ arranged by BEMANI Sound Team \"PON\"",
+      "sourceId": "I0qq8i9i68DoOQDd1q6iPqO6P9l10IQD",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Ødyssey",
+      "id": "809fc8c1474ba0c9069f",
+      "artist": "Kaname",
+      "sourceId": "I18Iolqio01IlPi9QIqPQ8Q9O6iOod0O",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "MYSTIC CUBE",
+      "id": "a3f3b085e2f34adfc2f2",
+      "artist": "こふ",
+      "sourceId": "i1QlPD8oooQ6lQq9Oo9qdi9q0Q0QqdoQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "シャムシールの舞",
+      "id": "2024024b097f8f6c541a",
+      "artist": "Zektbach",
+      "sourceId": "i6bb1iQb8qObPd09dOlibbdqb91Q0OOb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "PARANOiA: STOMP, STOMP, STOMP",
+      "id": "3810d6773233ca115e9a",
+      "artist": "U180-ASAMi",
+      "sourceId": "I91iOPbIbDOqI6iO6bPQ0d0q8Q8IlIid",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "O JIYA",
+      "id": "7c276ef80ffd662a3c63",
+      "artist": "ASMAT & emi",
+      "sourceId": "I98DbDO1OqIPD9Q608DqoO1I6Iqi1ddo",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Decryption",
+      "id": "32294b634b0157fb57ff",
+      "artist": "Felysrator",
+      "sourceId": "i9olPli6l8iDi88DPIbiDibPbIibb9l0",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Superior MAXXX",
+      "id": "ba321d953356ee4bf203",
+      "artist": "333-DJ TOTTO-444",
+      "sourceId": "ibDqd11d81i8ll91bib9I6IoDqdl6D8O",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "足神様ノ復活祭",
+      "id": "010d3495ae6ae8896c1d",
+      "artist": "U1 overground",
+      "sourceId": "iD8qIio8d1QQblQ06iPDlo69D9bQI9b8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Lucy",
+      "id": "87f926260823057c1e20",
+      "artist": "ELE BLOCK",
+      "sourceId": "iD9lOD90O1QD0D90Qi9dqQq6iq6IIIqq",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "MODEL FT2 Miracle Version",
+      "id": "8ea31f10e6eed8b203c7",
+      "artist": "Mutsuhiko Izumi",
+      "sourceId": "IdDblQIbq8Di9iOo61O0bQIIPqPQ16o8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "STOMP!!",
+      "id": "bd01f4e89bf4deaf85a2",
+      "artist": "Liqo",
+      "sourceId": "IdPl6QoiqIl86iQ1QdIoDQdqlq98OIib",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "踊るフィーバーロボ　Eu-Robot mix",
+      "id": "430df8d07c6bbdbd2cc0",
+      "artist": "D&E&Y Rmx by kors k as disconation",
+      "sourceId": "IDQb8bO8bq1qq1l6olilP11PddbIdi89",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Autosummer",
+      "id": "98651d0edadecb70c051",
+      "artist": "Aoi",
+      "sourceId": "iiDdl6b6Pb81oIPbd1DPPQOI1iq0D6ol",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "スペクター・チェイサー",
+      "id": "dcae9c2a5a71585effe6",
+      "artist": "音戯探偵ひなビタ♫",
+      "sourceId": "iidQ6i16lIQl96iq0Qd8lol1oo66loo8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "幸せのマ法は解けなイ.*・.+ ☆",
+      "id": "234ac81bfb527b0a3c7a",
+      "artist": "Mono.",
+      "sourceId": "ild9d0O9D09dlOP986089i9POPDoP6iD",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "I LOVE SAKURA",
+      "id": "f92e00d6f8e2d58a1714",
+      "artist": "CHERRY BLOSSOMS (ASAKI & wac)",
+      "sourceId": "ilio9d6DlI9b1oQi6919oOO1di09P916",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Meteor☆Shower",
+      "id": "176f6878c0a5a8e5fa98",
+      "artist": "Tatsunoshin",
+      "sourceId": "IObOi8dQo68Q19DI9oD8DI9O81IPqOlQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Proof of the existence",
+      "id": "eba52fb39540a3a02693",
+      "artist": "猫叉Master+",
+      "sourceId": "iqOqI9bQl1Q0qDb0086Dd80OOi80P166",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Re:RHYZE",
+      "id": "fe9f9ca240318dfcd80f",
+      "artist": "beatnation RHYZE",
+      "sourceId": "l1b8iDqOdQl6PbIIdb966qQ8d9i9dOPQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "tricky trick",
+      "id": "ad0e752f96e8c29866af",
+      "artist": "kamome sano",
+      "sourceId": "l6Dbo9DQD0PIb0lbDDb66qqObOloDP6P",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "LubedeR",
+      "id": "c2ec98180928b8285bb4",
+      "artist": "C-Show",
+      "sourceId": "l8IqlD99d81l6PdldDql08ODOQo6lDdq",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "WONDER COASTER",
+      "id": "901f088afcf178e5971f",
+      "artist": "MUGIPONG",
+      "sourceId": "lDdID1ili0D0i10bdiO06Q8OqDIdo91l",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "I'll Be With You",
+      "id": "b2c489183ce6eee59b8f",
+      "artist": "ゆんゆん",
+      "sourceId": "lIPQl8P18I99b90iD86OI1Qq0OI1OPDb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "3y3s",
+      "id": "7dd890393d7f96f17dae",
+      "artist": "青龍",
+      "sourceId": "loD8qPl09qqi0o1iqbbDOdllDblioDIl",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Amazing Bomberman",
+      "id": "d3b963f26f9be9543ed9",
+      "artist": "TESSEI TOJO",
+      "sourceId": "lq6DqO1o99Q1OdbDPl9loO0P0O8d8loO",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "童話回廊",
+      "id": "98a159e21f7145421e0a",
+      "artist": "DJ TOTTO",
+      "sourceId": "lqqIbPboOl80QOioqb0bq6DoibdOQOlD",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "King of Tribe",
+      "id": "5f5ec9a6f84dc5994ff5",
+      "artist": "Numb’n’dub",
+      "sourceId": "O00OboQl9oOIodo69iiIq1o8bPoDdq9Q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Be Happy Next 2 You",
+      "id": "59b2ebba21168162bd37",
+      "artist": "nc feat. maimie",
+      "sourceId": "O0DDiq9DQlI9iq861lOoo1d1DI8qqd6d",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Daisycutter",
+      "id": "9fe7bdf81115aa4c59d9",
+      "artist": "ETIA.",
+      "sourceId": "o1biqbO9i1IiObD0d1D8d8iqb6q86Qqi",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "少女、摩天楼へ",
+      "id": "c3c9f9d67770d7795dbe",
+      "artist": "BEMANI Sound Team \"U1 overground\"",
+      "sourceId": "o9iQ96669qo618i6DobbdD8I1lPiq8oQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "まにぃまにあ××",
+      "id": "c813c549c259676e9ffa",
+      "artist": "月乃 & BEMANI Sound Team \"劇団レコード\"",
+      "sourceId": "ObiiQb81io69166olbOqODQOQO10DbQi",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "CUE CUE RESCUE",
+      "id": "535df507bccceccc3cdc",
+      "artist": "TORIENA",
+      "sourceId": "od0idqqoq6lb9qIo9iOblo6D8q18DQDb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "UИKNØWNZ",
+      "id": "a44993abca9a97703ec9",
+      "artist": "nora2r & L.E.D.-G",
+      "sourceId": "Odbo96qo6o8PqDob6qD0oqI80diQ8PQd",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Steps for Victory (U1 Heavy Metal Edition)",
+      "id": "22c65b22db5bda1dce2c",
+      "artist": "U1-ASAMi×kors k×nagomu tamaki with taru",
+      "sourceId": "odiQOiD9OIiI1IDPodQQIo9DDPoOI868",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "No More Love",
+      "id": "ecb475304e3fad0c0d60",
+      "artist": "EmoCosine",
+      "sourceId": "odlOiO6di119680QOoOo8dO8IO0DliI9",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "アワデコノヨヲ",
+      "id": "ccc68c5adb17cda84917",
+      "artist": "AMAZE",
+      "sourceId": "odO8PDbIO8DiIboi8Q9PP6d8Q9iiIlbl",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "アキネイション",
+      "id": "0f043172ca6ddfe35ced",
+      "artist": "ビートまりお（COOL&CREATE）",
+      "sourceId": "oDQb8b9Ii9960180IO989PqIqiP6dOoP",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Collapse of the Sanctuary",
+      "id": "9afe1e867b359d2c4bed",
+      "artist": "打打だいず vs. siromaru",
+      "sourceId": "oIIPQQD09OqdOP8bb61biDOPI69OP8q8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Timepiece phase Ⅱ",
+      "id": "b8860276cb2b789a3a29",
+      "artist": "佐々木博史",
+      "sourceId": "oIOq6lQQPoD1q11Qiq6dDI6l8DdoQ169",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "BRAIN-HEART",
+      "id": "6676c2927bcd135a5471",
+      "artist": "SOUND HOLIC Vs. ZYTOKINE feat. Nana Takahashi",
+      "sourceId": "oo1P6l616OOdl0IqPPqobPI0Il81qqii",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "HAPPY☆PARADISE☆GALAXY",
+      "id": "0500817b6bb38655a74a",
+      "artist": "DJ（GW＋ミラクル☆ストーン）÷2",
+      "sourceId": "Oq8ii8id8ob90q6OiDoIl9Q0lQDd9DIO",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "eyesight",
+      "id": "e992df9ee68d06dc852b",
+      "artist": "タバサリサ",
+      "sourceId": "OQliD1io08dq96q9QO6dd1iq0dObl1QQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Easy Peasy Squeezy",
+      "id": "8a08aa691e2dc0c977ac",
+      "artist": "Numb'n'dub",
+      "sourceId": "oqlQDOi6bdOl9DIIb1IdP909dIIOl8bb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "†渚の小悪魔ラヴリィ～レイディオ† (STARDOM Remix)",
+      "id": "35c89757d307fcc4d509",
+      "artist": "kors k",
+      "sourceId": "oQP6D9PlDbDlPPPPPqd8QI61o1Q0PO81",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "なんてシュペール",
+      "id": "a07142964473451fb0d5",
+      "artist": "音戯探偵ひなビタ♫",
+      "sourceId": "oQq061q091Q16iOO9b8d9d0P9080qP6q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Four Leaves",
+      "id": "955bd836fd8b49eb595e",
+      "artist": "Endorfin.",
+      "sourceId": "P1D0q8O1QblDOQP96QQolql9QII0i6Pb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "COLOR BURST",
+      "id": "afbe981c87679c3027af",
+      "artist": "Rainy。",
+      "sourceId": "P600DiDIlPQ1Ql9DI8QlI6P8il1oOQd6",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "ちくたく2ちく2ぱ",
+      "id": "9c5bea434471c8705fd6",
+      "artist": "音戯探偵ひなビタ♫",
+      "sourceId": "P908I0O1PIodq1qOIO008bd16P0q8ql8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Blizzard of Arrows",
+      "id": "12371ed95282a5fa9cf6",
+      "artist": "BEMANI Sound Team \"KE!JU\"",
+      "sourceId": "PDbDl9dQQQiold81d9DQ6QQobQqb1OO8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "疾風迅雷",
+      "id": "e7b37fa617c0714946bf",
+      "artist": "KUMOKIRI",
+      "sourceId": "PdD1dlq1q00q8o9Il6IIqi61Il9DIo61",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "GO!",
+      "id": "8c7ad1d60278dfc3f00e",
+      "artist": "Juggernaut.",
+      "sourceId": "Pdl6bi6dOb1O6bo9Qibb018odPQ8D11q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "DIAVOLO",
+      "id": "574620479e4ddcabd9ab",
+      "artist": "度胸兄弟",
+      "sourceId": "Pdlib1o06DD6oIbdIdIoIqQqO8P896do",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "僕の気持ちを描く",
+      "id": "f4b30a5014e06209a056",
+      "artist": "Mr.T feat.NU-KO",
+      "sourceId": "PDQl91OPbdo86qi0919Do6DOqQl80l8Q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Lisa-RICCIA",
+      "id": "1ff872aa6dc52d1bb745",
+      "artist": "DJ YOSHITAKA",
+      "sourceId": "Pi8Qq9bqil106Il6b0oo998IQbPQb11Q",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "はるかぜリスタート！",
+      "id": "4b384ef6bbcf18acff09",
+      "artist": "qfeileadh feat.Risa Kodaka",
+      "sourceId": "PiIdO0odOb1bQdPQD0QqdlP06IQiodQ0",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "ILL-STARRED Diver",
+      "id": "778e7683b9a8b345acb6",
+      "artist": "polysha",
+      "sourceId": "Pio09lb6i96DQloDIdidPol8obPil6b0",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Florence",
+      "id": "b48b65bb122d478d76a3",
+      "artist": "BEMANI Sound Team \"TATSUYA\"",
+      "sourceId": "PIPdidPO68916i10dO8lPoI9Q9blPbID",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "水槽のクジラ",
+      "id": "93680c099bad0eb87be9",
+      "artist": "テヅカ feat. 大西あみみ",
+      "sourceId": "Po8qD6i6io866qdQ00QbbO0i9I1qIO0O",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "7 Colors",
+      "id": "22c9aa97b147e343f817",
+      "artist": "kors k feat.吉河順央",
+      "sourceId": "Pqdb6bI66o9896lDbDq1Pi1Dl9QqO6Pd",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "和風インザ洋風",
+      "id": "886a23a894dc1402cf39",
+      "artist": "Super Momo Tarosans",
+      "sourceId": "PQq8l8DDD6lP8bbQlid9Q1iO18IQqo1b",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "天弓ノ舞",
+      "id": "fe60d37fecbf549d69fb",
+      "artist": "龍",
+      "sourceId": "Q098DQOP0b6q69lioP6lDoDP0o0066i8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "断罪のミメシス",
+      "id": "871314827358bb314b8a",
+      "artist": "KE!JU",
+      "sourceId": "Q0d16D8DDo1P8i086QOQI90i0d1oD9l8",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "魄",
+      "id": "40c06fedfb3ffe8501ee",
+      "artist": "あさき",
+      "sourceId": "q1bb1QI8d08iq9OdIl9PO0ioDi6IQ9oD",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "RUINA",
+      "id": "3a084d2f964ae45fe21e",
+      "artist": "Dustup VS MAX MAXIMIZER",
+      "sourceId": "Q6il000Q11liO16qIDi0i0IO6id6qibP",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "fixer",
+      "id": "7e308a34ce3932ebbce1",
+      "artist": "PHQUASE vs. dj TAKA",
+      "sourceId": "q6l9OQ91o1PDO9qiPl1iiPO6OOPdI886",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "ドーパミン (STARDOM Remix)",
+      "id": "3e3e2f90d8b266b02084",
+      "artist": "ARM (IOSYS)",
+      "sourceId": "Q8PqoP91qqI6I909IdQ098091q9q0i19",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "混乱少女♥そふらんちゃん!!",
+      "id": "d5838028c150a2431f95",
+      "artist": "かめりあ feat. ななひら",
+      "sourceId": "Q9iiOo800blDqO0DDDPI1PIbl1lIidI1",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "謎解き☆クイーン！",
+      "id": "84928c9dc7e6c1c3f2b5",
+      "artist": "音戯探偵ひなビタ♫",
+      "sourceId": "Qb006IP91qidb1PIPqilliP90qOqDD9d",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Bloody Iron Maiden",
+      "id": "4617c48b95a762b27a86",
+      "artist": "BEMANI Sound Team \"Loz\"",
+      "sourceId": "qb9Q8d8q6q8DQ61iDl1DP8iQO9oIqidI",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Princess K",
+      "id": "bf133c932360c3c4984e",
+      "artist": "Retropolitaliens(Ms.+駄々子)",
+      "sourceId": "qbl06811iP8IdDDOqiIq1P0lqiPdDQqP",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "霖が哭く",
+      "id": "ade7eeba1ad424812c02",
+      "artist": "Power Of Nature",
+      "sourceId": "qdoPQQldIQo6QDdQllbIP91iiilio1O1",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "雪上断火",
+      "id": "eb70a33ee8978a7e497c",
+      "artist": "Des-ROW・組",
+      "sourceId": "qib6O1d6010d8Iql8IQ0q8diqOP6dIqb",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Fly Like You",
+      "id": "373f1b7a2edb971c7a78",
+      "artist": "technoplanet",
+      "sourceId": "Qib986b6oDqPl8IQiOoDOQ06IlbD68bl",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Roche Limit",
+      "id": "3b0a9f5e3bef309212c9",
+      "artist": "Felysrator",
+      "sourceId": "QoD9DQ8QQ11ib0Idob9dbIQqbq0Q8Q6i",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Lichtsäule",
+      "id": "3d462a435a925c09055f",
+      "artist": "かめりあ & BEMANI Sound Team \"PHQUASE\"",
+      "sourceId": "qP8qb6lIqPIlO696q8881qoIqi1O6ldI",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "レシピのリドル",
+      "id": "9552f668f860f70773ce",
+      "artist": "音戯探偵ひなビタ♫",
+      "sourceId": "QPIbbqb0OIq8dQ8IbiD1O1bI1PPOb1IQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "Fragarach",
+      "id": "05e28a80e2a5a2637eff",
+      "artist": "ARForest vs. Zekk",
+      "sourceId": "qQ1DII6bDO61o81O86OibP6Pi1q1O0QQ",
+      "category": "GOLD",
+      "corroborated": true
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "id": "a45169a107556c418075",
+      "artist": "rino & m@sumi from plastic penguin",
+      "sourceId": "qQb09PdOD61ioPPdD9DbIil9iQQii1q1",
+      "category": "GOLD",
+      "corroborated": true
+    }
+  ],
+  "levelConflicts": [],
+  "singleSource": [
+    {
+      "title": "Ambivalent Vermilia",
+      "difficulty": "DIFFICULT",
+      "level": 15,
+      "source": "https://3icecream.com/js/songdata.js"
+    },
+    {
+      "title": "Ambivalent Vermilia",
+      "difficulty": "EXPERT",
+      "level": 18,
+      "source": "https://3icecream.com/js/songdata.js"
+    }
+  ],
+  "excluded": [
+    {
+      "title": "Happy",
+      "reason": "ユーザー指定"
+    },
+    {
+      "title": "Steps to the Star",
+      "reason": "SPの踊・激・鬼がない"
+    }
+  ],
+  "duplicateTitles": [
+    {
+      "title": "朱と碧のランページ",
+      "artist": "covered by 儒烏風亭らでん(ReGLOSS)",
+      "id": "54f61f90e89dc1b08e58"
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "artist": "covered by 轟はじめ(ReGLOSS)",
+      "id": "e1b5ef941a9db854cd3f"
+    },
+    {
+      "title": "朱と碧のランページ",
+      "artist": "NU-KO",
+      "id": "26bad8f5dc8d82af23d7"
+    },
+    {
+      "title": "リメンバーリメンバー",
+      "artist": "rino & m@sumi from plastic penguin",
+      "id": "a45169a107556c418075"
+    }
+  ],
+  "unmatchedOfficial": []
+}

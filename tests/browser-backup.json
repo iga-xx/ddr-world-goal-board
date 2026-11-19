@@ -1,0 +1,127 @@
+{
+  "application": "ddr-world-goal-board",
+  "schemaVersion": 1,
+  "exportedAt": "2026-10-30T09:25:03.056Z",
+  "entries": [
+    {
+      "chartId": "58bb119c35513a451d24-SP-EXPERT",
+      "target": "FL9",
+      "current": "FL9",
+      "createdAt": "2026-10-30T09:20:48.212Z",
+      "updatedAt": "2026-10-30T09:20:52.025Z",
+      "snapshot": {
+        "chart": {
+          "id": "58bb119c35513a451d24-SP-EXPERT",
+          "songId": "58bb119c35513a451d24",
+          "style": "SP",
+          "difficulty": "EXPERT",
+          "level": 13,
+          "skills": {
+            "FL9": null,
+            "FLEX": null
+          }
+        },
+        "song": {
+          "id": "58bb119c35513a451d24",
+          "title": "AA",
+          "category": "CLASSIC",
+          "categorySource": "https://p.eagate.573.jp/game/bpl/season4/ddr/about/music/final/classic/index.html",
+          "jacket": "/jackets/58bb119c35513a451d24.img",
+          "jacketSource": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=0DDo1ilPDQoIoPd8ol9OPO1IPbi9ii6d&kind=1",
+          "source": "https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html?offset=5&filter=7",
+          "retrievedAt": "2026-10-30T09:14:38.061Z"
+        }
+      }
+    },
+    {
+      "chartId": "58bb119c35513a451d24-SP-CHALLENGE",
+      "target": "FLEX",
+      "current": "NONE",
+      "createdAt": "2026-10-30T09:20:48.212Z",
+      "updatedAt": "2026-10-30T09:20:48.212Z",
+      "snapshot": {
+        "chart": {
+          "id": "58bb119c35513a451d24-SP-CHALLENGE",
+          "songId": "58bb119c35513a451d24",
+          "style": "SP",
+          "difficulty": "CHALLENGE",
+          "level": 17,
+          "skills": {
+            "FL9": null,
+            "FLEX": null
+          }
+        },
+        "song": {
+          "id": "58bb119c35513a451d24",
+          "title": "AA",
+          "category": "CLASSIC",
+          "categorySource": "https://p.eagate.573.jp/game/bpl/season4/ddr/about/music/final/classic/index.html",
+          "jacket": "/jackets/58bb119c35513a451d24.img",
+          "jacketSource": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=0DDo1ilPDQoIoPd8ol9OPO1IPbi9ii6d&kind=1",
+          "source": "https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html?offset=5&filter=7",
+          "retrievedAt": "2026-10-30T09:14:38.061Z"
+        }
+      }
+    },
+    {
+      "chartId": "75250bfa7bec391d8aa0-SP-CHALLENGE",
+      "target": "FLEX",
+      "current": "NONE",
+      "createdAt": "2026-10-30T09:21:10.527Z",
+      "updatedAt": "2026-10-30T09:21:10.527Z",
+      "snapshot": {
+        "chart": {
+          "id": "75250bfa7bec391d8aa0-SP-CHALLENGE",
+          "songId": "75250bfa7bec391d8aa0",
+          "style": "SP",
+          "difficulty": "CHALLENGE",
+          "level": 17,
+          "skills": {
+            "FL9": null,
+            "FLEX": null
+          }
+        },
+        "song": {
+          "id": "75250bfa7bec391d8aa0",
+          "title": "ウサテイ",
+          "category": "GOLD",
+          "categorySource": "https://p.eagate.573.jp/game/bpl/season4/ddr/about/music/final/gold/index.html",
+          "jacket": "/jackets/75250bfa7bec391d8aa0.img",
+          "jacketSource": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=9oIO98IPOiq1idiIIbOOqdDQIOdQPPd6&kind=1",
+          "source": "https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html?offset=0&filter=7",
+          "retrievedAt": "2026-10-30T09:14:38.061Z"
+        }
+      }
+    },
+    {
+      "chartId": "fa667971058ad347f3cd-SP-EXPERT",
+      "target": "FLEX",
+      "current": "NONE",
+      "createdAt": "2026-10-30T09:21:10.527Z",
+      "updatedAt": "2026-10-30T09:21:10.527Z",
+      "snapshot": {
+        "chart": {
+          "id": "fa667971058ad347f3cd-SP-EXPERT",
+          "songId": "fa667971058ad347f3cd",
+          "style": "SP",
+          "difficulty": "EXPERT",
+          "level": 15,
+          "skills": {
+            "FL9": null,
+            "FLEX": null
+          }
+        },
+        "song": {
+          "id": "fa667971058ad347f3cd",
+          "title": "エンドルフィン",
+          "category": "WHITE",
+          "categorySource": "https://p.eagate.573.jp/game/bpl/season4/ddr/about/music/final/white/index.html",
+          "jacket": "/jackets/fa667971058ad347f3cd.img",
+          "jacketSource": "https://p.eagate.573.jp/game/ddr/ddrworld/images/binary_jk.html?img=oQolO9oOO01ll0I8969i8O1IQliloDqP&kind=1",
+          "source": "https://p.eagate.573.jp/game/ddr/ddrworld/music/index.html?offset=0&filter=7",
+          "retrievedAt": "2026-10-30T09:14:38.061Z"
+        }
+      }
+    }
+  ]
+}
