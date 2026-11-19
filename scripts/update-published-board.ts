@@ -14,7 +14,8 @@ const [backupText, masterText] = await Promise.all([
   readFile(new URL('../public/master.json', import.meta.url), 'utf8'),
 ]);
 const master: Master = JSON.parse(masterText);
-const board = parseBackup(JSON.parse(backupText), master).map(({ chartId, target }) => ({ chartId, target }));
+const board = parseBackup(JSON.parse(backupText), master)
+  .map(({ chartId, target, current }) => ({ chartId, target, current }));
 publishedEntries(board, master);
 
 const output = new URL('../src/published-board.json', import.meta.url);
