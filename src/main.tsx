@@ -17,10 +17,11 @@ function App(){
  useEffect(()=>{
    async function loadBoard(){
      try {
-       const response = await fetch(assetUrl('/master.json'));
+       const response = await fetch(assetUrl('/master.json'), { cache: 'no-cache' });
        if (!response.ok) throw Error('master.jsonを読み込めません。');
        const master = await response.json() as Master;
-       const stored = isPublished ? undefined : await readEntries();
+       let stored: unknown;
+       if (!isPublished) stored = await readEntries();
        const entries = stored === undefined
          ? publishedEntries(publishedBoard as PublishedChart[], master)
          : parseBackup({...backup([]), entries: stored}, master);
